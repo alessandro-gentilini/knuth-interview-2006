@@ -14,7 +14,7 @@ Patches to improve the formatting and correct errors are
 welcome. Please don’t refill the paragraphs, though; it creates
 unnecessary merge conflicts.
 
-I know **lots of people are going to hate the random boldface**. But
+I know lots of people are going to hate the random boldface. But
 the interview, like any record of an extempore speech, is not really
 organized into headings, subheadings, and the like. The boldface is my
 attempt to pull out the main topics of each paragraph so that it’s
@@ -24,8 +24,8 @@ possible to skim through the document to find a particular topic.
 --------------------------------------------------------
 
 If you want to go way back, if you go like, 16 of my
-**great-great-grandparents, in 1840 they all would have been in Germany,
-but by 1870, they all were in America**. So if you know, consider all
+great-great-grandparents, in 1840 they all would have been in Germany,
+but by 1870, they all were in America. So if you know, consider all
 the different lines. My mother; my father’s, the Knuth part of my
 ancestry was the most diverse, in a way. He came from
 Schleswig-Holstein, rather near the border with Denmark, and he was
@@ -40,9 +40,9 @@ So then his wife was somebody he met in
 America. She had come — her family had come over earlier from the
 Hannover area, and she lived in Indiana, all very near Chicago area,
 and so that part of the family is from a different part of Germany. My
-mother’s side came; they all emigrated in 1840s, and they were **farmers
-in the area of what is now Niedersachsen**; it’s a small town in Germany
-called **Bad Essen**, and they, her family came and were farmers in Ohio,
+mother’s side came; they all emigrated in 1840s, and they were farmers
+in the area of what is now Niedersachsen; it’s a small town in Germany
+called Bad Essen, and they, her family came and were farmers in Ohio,
 near Cleveland, Ohio. So they, yeah, the background then is, my
 father’s side round Chicago, where he was born and grew up, and my
 mother’s side from Cleveland Ohio, where she was born.
@@ -57,7 +57,7 @@ teacher.
 [2 - Learning to read and school](http://webofstories.com/play/17061)
 ---------------------------------------------------------------------
 
-It all started in Milwaukee, Wisconsin, **1938, I was born**. I don’t
+It all started in Milwaukee, Wisconsin, 1938, I was born. I don’t
 remember anything about the first few years of my life, but I know a
 little bit from records that my parents kept that they were kind of
 unusual at that time, in introducing me to reading. All of their
@@ -67,12 +67,12 @@ was — I guess I was the youngest bookworm in the Milwaukee Public
 Library.
 
 So that’s the first, news I have from the past, because they
-saved a newspaper clipping. I guess I was like **two and a half years
-old and I had become a bookworm at the Milwaukee Library**. I start
+saved a newspaper clipping. I guess I was like two and a half years
+old and I had become a bookworm at the Milwaukee Library. I start
 remembering things more when I get, you know, when I get into school,
 and I went to a small school at our church. 
 
-**My father was a teacher**
+My father was a teacher
 there. His life’s work was to be an educator in the Lutheran School
 System, and their salaries weren’t much to speak of. I think, I think
 it was something like ten or $15 a month. But it was a very warm,
@@ -98,8 +98,8 @@ really didn’t know that much about English, so that was the only time
 I remember being bored, because we already knew everything that they
 were going to teach us in high school.
 
-So **the high school I went to,
-again, was a Lutheran high school**. The people who work in these
+So the high school I went to,
+again, was a Lutheran high school. The people who work in these
 schools are, like my dad, doing it as kind of a mission, or, I don’t
 know, not, they consider it their life’s calling to be good teachers,
 and so we really had people who took a genuine interest in us, and
@@ -109,8 +109,8 @@ world. Some people think that the church schools are places where they
 teach intolerance and you know, that you’re supposed to only be, what
 do you say anyway? Only, only be appreciating of people who are like
 you, and so on, but that was absolutely not the case. I think we had a
-very good experience and it was, there was, **one of my teachers was a
-little bit prejudiced against blacks**, but he stood out, and we didn’t
+very good experience and it was, there was, one of my teachers was a
+little bit prejudiced against blacks, but he stood out, and we didn’t
 pay any attention to him.
 
 So it was a, I think a really nice way to
@@ -119,8 +119,8 @@ know, special knowledge or unusual.
 
 I think I was kind of a wise guy,
 I think, I’d often sit in the back of the class and crack jokes, and
-**the teachers didn’t, didn’t really like**, the way, you know, **my
-attitude**. But you know, they learned to live with it, and I didn’t
+the teachers didn’t, didn’t really like, the way, you know, my
+attitude. But you know, they learned to live with it, and I didn’t
 get, I didn’t get spanked too often.
 
 We had good music also, in the
@@ -128,16 +128,16 @@ school, for singing, and, but we also had a lot of freedom, so I
 remember like, we had a circle of four or five friends, and when we
 were in Fifth and Sixth Grade, we started doing some little projects,
 like we got hold of a tape recorder, this was in the 1940s, and we
-tried to write scripts for fake radio programs, and we **pretended we
-were on the radio**, and we put on these little shows, and recorded
+tried to write scripts for fake radio programs, and we pretended we
+were on the radio, and we put on these little shows, and recorded
 them.
 
-My friends and I **started a school newspaper**. We called it
-“**Newsweak**”, spelled W, E, A, K, of course. And in that paper we would
+My friends and I started a school newspaper. We called it
+“Newsweak”, spelled W, E, A, K, of course. And in that paper we would
 tell stories about things going on in the school, but also we recycled
 a lot of corny jokes we had seen in books, and had a puzzle page and
-things like that. But that was when I, I had **my first experience in
-writing**, and as I say, we had good English in that school, so from
+things like that. But that was when I, I had my first experience in
+writing, and as I say, we had good English in that school, so from
 early on, I had a lot of training in things that had to do with
 languages, and then a chance to do some creative work with things like
 these skits.
@@ -147,8 +147,8 @@ these skits.
 
 I should say something about my mom, who was also very important in my
 life, of course. She was unusual also at that time, because she had a
-good job. My **parents were the first** in their families, in the whole
-history of our family, **to have some kind of education**. My dad had gone
+good job. My parents were the first in their families, in the whole
+history of our family, to have some kind of education. My dad had gone
 to a teachers training college in Chicago, and my mother had taken one
 or two years of training as a secretary, as a legal secretary.
 
@@ -159,7 +159,7 @@ in town, downtown, and she became his personal secretary, and later a
 Trustee of the, of these, of some of the organisations that owned the
 property, and the time of his death she was, she had been doing rather
 well, and was asked to be, asked to be the manager of one of the
-buildings, so **she spent her life working in real estate in Milwaukee**
+buildings, so she spent her life working in real estate in Milwaukee
 with the large commercial buildings in the downtown area. And she had
 started doing this part time work, when I was five or six years old,
 but still doing everything else at home, as well. 
@@ -167,8 +167,8 @@ but still doing everything else at home, as well.
 My, but my
 grandfather was, my great-grandfather was a blacksmith, my grandfather
 was, my grandfathers on both sides, were in construction work, and
-maintenance. There was **not a family tradition of education, and I
-certainly was the first one ever** to go on to higher levels of
+maintenance. There was not a family tradition of education, and I
+certainly was the first one ever to go on to higher levels of
 education. It’s partly the story of America, of course, that more and
 more people are going to college, but when I was in high school, at
 that time still, it was, I think something like 7% or 8% of my
@@ -179,12 +179,12 @@ that time.)
 --------------------------------------------------------------
 
 I guess I can say a little bit more about my parents’ finances. Of
-course **they were married during the Depression**, and my dad’s first
+course they were married during the Depression, and my dad’s first
 job, when he came to Milwaukee, they decided after a year, that they
 should cut his salary by $5 a month, and they told him that he would
 learn thrift, and he would, you know, this would be good for him, to,
 and of course the church was always having trouble with fundraising,
-but **our family didn’t have an automobile till 1951**, which is when I
+but our family didn’t have an automobile till 1951, which is when I
 was in Seventh Grade. 
 
 We took our first, you know, auto trip at that
@@ -193,8 +193,8 @@ twice a year by train, and rarely would relatives from Illinois or
 Ohio be able to come to visit us. 
 
 We, my dad would always ride his
-bicycle to work, and my mother, well, **Milwaukee had good public
-transportation, and in fact it was a very safe city**; completely
+bicycle to work, and my mother, well, Milwaukee had good public
+transportation, and in fact it was a very safe city; completely
 different from now, when, because of drugs and things now, but when I
 was growing up, I could, I would always ride the streetcar downtown at
 all hours of the day and night. Now you take your life in your hands
@@ -203,8 +203,8 @@ things that we were doing.
 
 I was, once I took the streetcar; I don’t
 know how old I was, but I think it was, you know, maybe Fourth or
-Fifth Grade, and I took the streetcar downtown, and **went to the public
-library**, and I started reading books, and I didn’t know that the
+Fifth Grade, and I took the streetcar downtown, and went to the public
+library, and I started reading books, and I didn’t know that the
 library hours, that the library was closing, and the lights went off,
 so I went over to a window, where I could sit, and I kept reading, and
 finally the people, you know, and my parents didn’t, were wondering
@@ -219,8 +219,8 @@ could finally afford something from the little jobs that my dad would
 take outside of his teaching experience. 
 
 He would; he and his friends
-got together and they **invested in the stock market, what they called
-penny stocks**. You could buy stocks in various mining companies. He met
+got together and they invested in the stock market, what they called
+penny stocks. You could buy stocks in various mining companies. He met
 a man at the, I think it was at a, what do you call it? A bathhouse?
 Or, you know, a public bath, where you can go for a hot bath, and met
 a man there who introduced him to some people from Colorado who were
@@ -228,12 +228,12 @@ into mining and so then they decided they were going to make some
 money this way.
 
 Well, I inherited all these stock certificates now,
-which make **great wallpaper**, but they, you know; they’re **completely
-useless**. One of the stocks, however, did well. It was called Silver
+which make great wallpaper, but they, you know; they’re completely
+useless. One of the stocks, however, did well. It was called Silver
 Bell Mine, and we’ve, eventually we went out to Colorado, visited the
 place, and saw the, you know, we, the stock was sold to Union Oil
-eventually, and made a little bit of money on that. So, and **my parents
-bought stock in Walt Disney**, and that kept doubling and
+eventually, and made a little bit of money on that. So, and my parents
+bought stock in Walt Disney, and that kept doubling and
 multiplying. 
 
 So by working hard and saving money, throughout my mom’s
@@ -241,17 +241,17 @@ life; she died at almost age 90, and she never retired, she stayed
 working in real estate, even in her late 80s they had an office for
 her downtown, and she could come in, maybe three days a week, and, but
 putting money in the bank, and being a generous person, and
-contributing to charity and so on, but **she had accumulated an estate
-of more than $1 million**, by the time that she died. And **this surprised
-everybody** including her.
+contributing to charity and so on, but she had accumulated an estate
+of more than $1 million, by the time that she died. And this surprised
+everybody including her.
 
 But they were, my dad was the bookkeeper for
 the high school, and so he took some classes in accounting, and so he
 spent a lot of his time actually filling out what we’d call
 spreadsheets now. And he’d stay keeping track of little transactions
 with stocks. The, so, I think it’s interesting to see that the way
-**they could, just by being responsible citizens, make a good life for
-themselves**, the way the times were in our country at that period. And
+they could, just by being responsible citizens, make a good life for
+themselves, the way the times were in our country at that period. And
 this idea of personal responsibility was something I always took for
 granted, because I got it from my parents. So it never occurred to me
 that there was any other way to live.
@@ -264,8 +264,8 @@ called Lutheran High School, and then during my Senior year it split
 into two schools, Milwaukee Lutheran High School, which was the one
 I’d went to, and Wisconsin Lutheran High School. 
 
-**1956 was the year I
-graduated**, and that, well, the place where again I didn’t have
+1956 was the year I
+graduated, and that, well, the place where again I didn’t have
 special, teachers who were specialists in a world class sense, but
 they were always real interested in nurturing us.
 
@@ -288,15 +288,15 @@ In fact I, well I
 played the piano with the high school chorus, I sang in the chorus, I
 was in the band, I played the saxophone and I played the tuba in the
 band, and I played, you know, in the All-City, the Milwaukee All-City
-Band, or Symphonic Band. **I wrote music**, I arranged music for bands. I
-had, I had, at the time I took a; I was a big fan of ***Mad Magazine***.
+Band, or Symphonic Band. I wrote music, I arranged music for bands. I
+had, I had, at the time I took a; I was a big fan of *Mad Magazine*.
 
 And also of Roger Price, if anybody remembers Roger Price, and he had
 written a short story called “Milton and the Rhinoceros”. And so I
 made a take off on Prokofiev’s “Peter and the Wolf”, with the words
 from “Milton and the Rhinoceros”. I was very naïve at the time; I had
-no idea about copyrights, or anything, so I **took Prokofiev’s music,
-and I scored it for band, and I took Roger Price’s words**, “Milton and
+no idea about copyrights, or anything, so I took Prokofiev’s music,
+and I scored it for band, and I took Roger Price’s words, “Milton and
 the Rhinoceros”, and I made this, this piece for, I don’t know, 20
 minutes or something like this, for our, for our high school band to
 perform. And I proudly gave this to our band director, and he lost it,
@@ -308,7 +308,7 @@ or whatever, but there it was.
 [6 - Interests in high school (Part 2)](http://webofstories.com/play/17065)
 ---------------------------------------------------------------------------
 
-I also **started the school newspaper**. I was Editor of the paper, and
+I also started the school newspaper. I was Editor of the paper, and
 during my Senior year, I would do an all-nighter every Monday night. I
 stayed up the whole night, getting the paper done by seven o’clock in
 the morning. We didn’t have a professional way to produce it, so I
@@ -322,30 +322,30 @@ and you know, he could make a little freelance money this way to
 supplement his meagre salary, and he also used this machine to typeset
 music for local choirs, and so I had this machine at home, and also
 some electric typewriter that he had, or maybe my mother had; anyway
-we had it at home, so **I could produce our school newspaper at home**,
+we had it at home, so I could produce our school newspaper at home,
 without having to worry about fancy typesetting, but we had a lot of
 reporters, and I wrote some features for it, like crossword puzzles,
-and things like that. So again, I was doing **a lot of writing in my
-spare time, during high school**.
+and things like that. So again, I was doing a lot of writing in my
+spare time, during high school.
 
 I worked on the Yearbook and other
 publications as well, and friends of mine, friends and I wrote plays
 that were put on by groups in the high school. So it was a fun
 time. But I would say at that part of my life I was pretty much a,
 like a machine, an autom-, I mean I was just, I would just learn,
-absorb stuff, and take tests and you know, **get 100% on the tests** if I
+absorb stuff, and take tests and you know, get 100% on the tests if I
 could, without really sitting back and taking a look at finer things
 in life, or something like this. I was a, I was a dutiful child who
 said, okay, you’re supposed to go to school Don, so I went to school,
 and you’re supposed to learn, so I learned, and I had fun on the side
-with some of these writing projects, but **I really wouldn’t read a book
-unless it was assigned to me**.
+with some of these writing projects, but I really wouldn’t read a book
+unless it was assigned to me.
 
-Sometimes I would read, I remember, **I’m
-a very slow reader**, and I remember *Bleak House*, by Charles Dickens,
+Sometimes I would read, I remember, I’m
+a very slow reader, and I remember *Bleak House*, by Charles Dickens,
 with 60, 70 chapters, and I, it took me so long to read it that I had
 to use it for two book reports instead of one, and I didn’t; so it
-wasn’t **until I was in my 30s** before I actually found some of the great
+wasn’t until I was in my 30s before I actually found some of the great
 literature of the world and read it for my own pleasure.
 
 In high
@@ -354,9 +354,9 @@ said that my, okay, in those days they didn’t give just letter grades,
 like A, B, C, but they gave a number grade, and based on you know,
 when you took an exam, they would average these scores, and they would
 grade your homework and it was all based on a zero to 100 system, and
-they said that **my average which was more than 97.5 was a record for
-the school** that hadn’t been achieved before, so I was pretty much **a
-nerd of nerds** at that time.
+they said that my average which was more than 97.5 was a record for
+the school that hadn’t been achieved before, so I was pretty much a
+nerd of nerds at that time.
 
 [7 - My sense of humor](http://webofstories.com/play/17066)
 -----------------------------------------------------------
@@ -368,7 +368,7 @@ KARAGUEUZIAN: Satirical.
 KNUTH: But anyway, that’s why I liked *Mad Magazine*, because it was
 like crazy type of satire on the sacred cows of the day, and so when
 my friends and I discovered in high school, you know, we devoured
-every page, and it was a special, you know, **mad about *Mad***. We, and
+every page, and it was a special, you know, mad about *Mad*. We, and
 before that, as I said, I had the corny jokes, but my friends and I
 tended to be wise-cracking and not to take things too
 seriously.
@@ -377,8 +377,8 @@ Although I said I was a machine, but I did also like to
 laugh, and so when I was writing for the paper, we always had sections
 about jokes, and we always had you know, in our Yearbook we had fun
 things in there that weren’t expected. So I’ve carried that through,
-as you know, and many; there are **lots of corny jokes in the indexes to
-my books** now that people probably haven’t discovered yet, but somebody
+as you know, and many; there are lots of corny jokes in the indexes to
+my books now that people probably haven’t discovered yet, but somebody
 will ask me, why do I have a reference to Bo Derek in *The TeXbook*?
 And it turns out that just all the pages which are cited in the index
 for Bo Derek is where I used the number ten, so all the way through
@@ -389,7 +389,7 @@ everything too seriously.
 --------------------------------------------------------------------------------------------------------------------------
 
 While I’m on the subject of *Mad Magazine*, I might as well mention
-that then **I did a project in my senior year**, which was submitted to
+that then I did a project in my senior year, which was submitted to
 the Wisconsin Academy of Sciences, well, no, first to the Westinghouse
 Science Talent Search, which is now called the Intel Science Talent
 Search or something, but it’s a nationwide competition, and it was
@@ -403,10 +403,10 @@ those, and a fershlugginer potrzebie was a million — and a farshimmelt
 potrzebie one millionth. We had units of time, weight, everything, in
 the system.
 
-And it **won honorable mention in this Science Talent
-Search**, and also was, I did some demos at the Academy of Sciences; it
-won an award in Wisconsin. I submitted it them to ***Mad Magazine*, and
-they published it**; they paid me $25, for it, and it came out in,
+And it won honorable mention in this Science Talent
+Search, and also was, I did some demos at the Academy of Sciences; it
+won an award in Wisconsin. I submitted it them to *Mad Magazine*, and
+they published it; they paid me $25, for it, and it came out in,
 during the spring of my Freshman year in college, and this was my
 first technical publication, so it is listed on my vita, you know, and
 publication number one is the Potrzebie System of Weights and
@@ -422,7 +422,7 @@ missing tooth, and when I looked at his teeth, I could see, you know,
 white squares and black squares, reminding me of a crossword
 puzzle. So I added more white squares and black squares up in his
 forehead area, and where his hair is, and I filled, and I made that
-into **a crossword puzzle with *Mad*-type clues**, like, you know, “blank,
+into a crossword puzzle with *Mad*-type clues, like, you know, “blank,
 me worry?”, or something like this, and I submitted that, and they
 rejected that, you know, they didn’t want, but I’ve still got it, and
 later on when we get to writing, 
@@ -442,8 +442,8 @@ sort of out of the box as well as in the box.
 
 My parents were asked whether or not they should advance me a grade,
 because I was doing well in school. And they; in fact I was born in
-January, which meant that **I was older than most of the kids in my
-class**, because if I’d been born in December, I would have gone to
+January, which meant that I was older than most of the kids in my
+class, because if I’d been born in December, I would have gone to
 school a year earlier, so I was one of the oldest in my class, and my
 parents, you know, a lot of kids at that time were being pushed ahead
 in school, and one of my friends, you know, graduated from college when
@@ -451,26 +451,26 @@ he would normally have been entering high school.
 
 Well I, but I’m glad
 that they resisted this, because it gave me this time for all these
-extra-curricular activities, so I was always into a lot of things. **I
-mean sports; I was a terrible athlete**. I’m tall, but my left hand
+extra-curricular activities, so I was always into a lot of things. I
+mean sports; I was a terrible athlete. I’m tall, but my left hand
 doesn’t know what the right hand is doing, so I would only get in the
 game after we were already behind by 50 points, and, but I was the
 scorekeeper. 
 
 I was a terrific scorekeeper, you know, so I became
-**manager of many of the sports teams** in high school, and also in
+manager of many of the sports teams in high school, and also in
 college. I was manager of the cross-country team, I was manager of the
-basketball team, I was manager of the baseball team, so **I was a six or
-seven letter man without being able to do anything athletics**, you know,
+basketball team, I was manager of the baseball team, so I was a six or
+seven letter man without being able to do anything athletics, you know,
 whatever. 
 
 But I’m sitting there at the score table during the
 basketball tournament, and- a basketball game, and like, I’m talking a
-mile a minute to **keep the other scorekeeper confused**, so that he
+mile a minute to keep the other scorekeeper confused, so that he
 wouldn’t know, you know, if somebody said, who’s the fouler? And I
 could tell them, you know, who the foul was on, based on, you know,
-**who it was most desirable for us to have the foul be on, rather than
-the person who really committed the foul**, because the guy’s, you know,
+who it was most desirable for us to have the foul be on, rather than
+the person who really committed the foul, because the guy’s, you know,
 very mixed up by the way I’m talking. But anyway, I don’t think I won
 too many games at the scoring table, but I was the person who went
 along with the team and kept the scorebooks.
@@ -482,10 +482,10 @@ well in my classes but also participate in lots of other things.
 
 Now
 my, but, you know, so here I am, doing rather well at school, but I’ve
-still got an **inferiority complex**. I’m still always trying to prove
+still got an inferiority complex. I’m still always trying to prove
 myself. I’m thinking, you know, maybe I’m not getting it well, and in
-fact, so I was probably taking, you know, studying hard and **getting
-100s** on these exams, because I’m **trying to prove that I knew it**. You
+fact, so I was probably taking, you know, studying hard and getting
+100s on these exams, because I’m trying to prove that I knew it. You
 know; if I was really overconfident, so confident, I wouldn’t have
 bothered to study. And that was, so that was one of the child’s eyes
 looking at it. I’m always scared that I’m not going to do well, so I
@@ -495,18 +495,18 @@ The funny thing was that my; when I
 was being advised what to do for college, well, everybody in my school
 took a whole bunch of tests, national tests, and one of the tests was
 vocational, you know, what job are you cut out for? And I remember
-that that, **according to that test, I should be an architect**, and I
+that that, according to that test, I should be an architect, and I
 should not be a veterinarian. I scored extremely low on veterinarian
 skills, but for architect, that seemed to be the career path that was
 recommended to me.
 
 But the, and I won scholarships to different
 colleges, but the people at my high school, the Vice Principal called
-me in; he said, **“Don, I think you’re going to be a failure in
-college”**. He said, you know, you’ve done well here in high school, but
+me in; he said, “Don, I think you’re going to be a failure in
+college”. He said, you know, you’ve done well here in high school, but
 college is completely different, and you’re just, you know, it’s just
 going to be too much for you, you’re not going to, you aren’t going to
-make it. And, well, so **he scared me** again, and when I got to college I
+make it. And, well, so he scared me again, and when I got to college I
 kept studying. 
 
 In fact, just the week before college, the Dean of
@@ -515,14 +515,14 @@ Technology in Cleveland, which was at that time not yet connected with
 Western Reserve University. So I went to Case, and the Dean of Case
 says to us, says, it’s a all men’s school, says, “Men, look at, look to
 the person on your left, and the person on your right. One of you
-isn’t going to be here next year; **one of you is going to fail.**” So I
+isn’t going to be here next year; one of you is going to fail.” So I
 get to Case, and again I’m studying all the time, working really hard
 on my classes, and so for that I had to be kind of a machine.
 
 I, the
 calculus book that I had, in high school we — in high school, as I
-said, our math program wasn’t much, and **I had never heard of calculus
-until I got to college**. But the calculus book that we had was great,
+said, our math program wasn’t much, and I had never heard of calculus
+until I got to college. But the calculus book that we had was great,
 and in the back of the book there were supplementary problems that
 weren’t, you know, that weren’t assigned by the teacher. The teacher
 would assign, so this was a famous calculus text by a man named George
@@ -533,15 +533,15 @@ book.
 
 But Thomas’s Calculus would have the text, then would have
 problems, and our teacher would assign, say, the even numbered
-problems, or something like that. **I would also do the odd numbered
-problems**. In the back of Thomas’s book he had supplementary problems,
+problems, or something like that. I would also do the odd numbered
+problems. In the back of Thomas’s book he had supplementary problems,
 the teacher didn’t assign the supplementary problems; I worked the
 supplementary problems. I was, you know, I was scared I wouldn’t learn
 calculus, so I worked hard on it, and it turned out that of course it
 took me longer to solve all these problems than the kids who were only
 working on what was assigned, at first. But after a year, I could do
 all of those problems in the same time as my classmates were doing the
-assigned problems, and **after that I could just coast in mathematics**,
+assigned problems, and after that I could just coast in mathematics,
 because I’d learned how to solve problems. So it was good that I was
 scared, in a way that I, you know, that made me start strong, and then
 I could coast afterwards, rather than always climbing and being on a
@@ -558,7 +558,7 @@ teacher knew all three subjects, and I had terrific respect for him,
 because he seemed really smart, and also he was very hard to
 please. No matter, you know, I could show him what I was doing in
 calculus, but he would, he never seemed to be impressed, so this was
-frustrating to me. **I’d never had a teacher that I couldn’t impress**,
+frustrating to me. I’d never had a teacher that I couldn’t impress,
 you know, so I worked even harder at my math. But he had a good sense
 of humor, and his name was Paul Guenther. And finally, after two
 years, I was able to impress him a little bit, and so this was
@@ -575,7 +575,7 @@ Cleveland, she knew that Case had very high standards, and very few
 people that she knew were able even to be admitted to Case, and there
 was, considered to be one of the hardest schools to do. I’d never
 heard of MIT, by the way, until some years later, or much less
-Caltech. But **Case, to me, was a challenge**, where I would really have
+Caltech. But Case, to me, was a challenge, where I would really have
 to work hard and well, Valparaiso, it would be something where I could
 just do some; music would seem to me much easier. And I decided to go
 for the challenge, at Case, and I was admitted to; they had a special
@@ -589,8 +589,8 @@ teacher, math teacher and English teacher.
 
 I believe it was the first year they had tried this, and I’m not sure
 how long they continued the experiment, but the teachers, but what
-they called us the Honor Section, and this just meant that **20 of us
-just took all our classes together**, while other students would tend to
+they called us the Honor Section, and this just meant that 20 of us
+just took all our classes together, while other students would tend to
 mix. I don’t think the other students all spent Monday, Tuesday,
 Wednesday the same as, the same hours, like we did. And so the classes
 that I had, then I think they challenged us a little more too, than
@@ -598,7 +598,7 @@ they challenged the other students, perhaps.
 
 Still, I had time to do
 you know, to work on the school paper and to, one of the important
-issues of going to Case at that time was to **join a fraternity**. The,
+issues of going to Case at that time was to join a fraternity. The,
 most of the interesting action on campus would be centered around the
 fraternity system, and so I pledged a fraternity also in my Freshman
 year, and I guess I can say more about that.
@@ -606,17 +606,17 @@ year, and I guess I can say more about that.
 But I had mentioned that
 during the spring of my freshman year is when my *Mad Magazine*
 article came out, you know, and so that well, that led later to, later
-on I was **editor of a magazine that we founded at Case**, called
+on I was editor of a magazine that we founded at Case, called
 *Engineering and Science Review*, which wrote about topics in science,
 and I wrote an article about Potrzebie System for that publication. I
-was in the music, I was in the basketball; I was **manager of the
-basketball team**, at Case.
+was in the music, I was in the basketball; I was manager of the
+basketball team, at Case.
 
 And I’ll say a few words about that, because
 after I got into computers later on, I combined that with my managing
 the Basketball team. So I devised a strange formula that I don’t
 believe in much any more, but anyway, I had it at the time, where you
-could **compute each basketball player’s real contribution** to the
+could compute each basketball player’s real contribution to the
 game.
 
 Not just the points that he made, the baskets that he made, but
@@ -625,7 +625,7 @@ you have possession of the ball in basketball, this is worth
 something. In fact, when you’re watching a basketball game, if you
 sort of add one point to the score of the team who has the ball that
 sort of gives a more fair indication of what the real score is of the
-game. So **possession of the ball is worth maybe one point**. You can work
+game. So possession of the ball is worth maybe one point. You can work
 it out after the game; you can say, really, how many times, when you
 had possession of the ball did you really turn over, and fumble it, or
 you know, how many points did you really get during that series? And
@@ -639,7 +639,7 @@ possession, so you get credit for stealing the ball.
 If you make a
 basket, in those days it was only two points, you don’t have the
 three-point shots in those days, but if you can make a basket you get
-two points, but **your team also loses possession**, the other team gets
+two points, but your team also loses possession, the other team gets
 possession, so you don’t really; you didn’t really win two points for
 your team when you made the basket, you made two points, but you have
 to subtract from that, the fact that you have to get the ball
@@ -650,11 +650,11 @@ players’ contributions would be the amount by which our team won or
 lost. But it would rate, you know, if somebody makes a shot and
 misses, then sometimes our team gets the rebound, sometimes the other
 team gets the rebound, so I, you lose a little bit for taking a shot
-and missing. So **I calculated a huge number of statistics** for every
+and missing. So I calculated a huge number of statistics for every
 player, and I had a spotter, who would call to me, and I could write
 it down, every little thing, and after the game I would go and punch
-cards that recorded all these statistics, and **fed them into a little
-computer program** that calculated the formula and made a list for every
+cards that recorded all these statistics, and fed them into a little
+computer program that calculated the formula and made a list for every
 player, what their real contribution to the game was, not just the
 field goals and all these traditional statistics.
 
@@ -663,7 +663,7 @@ Heim, loved this system, and you know, he posted these numbers, and
 the Case News Service was always good at trying to plant interesting
 stories in the local paper, so they sent reporters out to, and we
 showed, you know, told about this formula, and IBM heard about it. So
-**IBM sent out a cameraman**, a camera crew, to make a film of me spotting
+IBM sent out a cameraman, a camera crew, to make a film of me spotting
 a game, you know, and there, our Case team playing basketball of
 course, but then, how I would punch the cards, you know, and put it
 into the IBM computer. Before they took the shot of the IBM computer,
@@ -676,7 +676,7 @@ looking at it and posting this up.
 So this was a little movie that I
 was in, about two or three minutes long. IBM supplies this movie to
 CBS, and they put it on the Sunday Evening News with Walter Cronkite,
-and **all my relatives in Florida can see me on TV**. This was very
+and all my relatives in Florida can see me on TV. This was very
 exciting. Also US News and World Report ran a story about it, and so
 this was my connection between computing and sports, when I was at
 Case. This was also a clever way for IBM to get their advertisements
@@ -684,14 +684,14 @@ in there, rather subtly, but it was a fun.
 
 That was when I first
 realized how hard it must be to be a movie star, because I had to walk
-through these scenes six times everything, you know, **punch those cards
-over and over again**. So I can see, how could Audrey Hepburn possibly
+through these scenes six times everything, you know, punch those cards
+over and over again. So I can see, how could Audrey Hepburn possibly
 look so beautiful after the sixth take, you know?
 
 [12 - University life: the fraternity system](http://webofstories.com/play/17071)
 ---------------------------------------------------------------------------------
 
-At Case, as I said, **I pledged a fraternity**. That was one of the things
+At Case, as I said, I pledged a fraternity. That was one of the things
 that — I’d met a few Case graduates in Milwaukee, or Case students,
 before, and they said — oh, Don, fraternities are the big thing at;
 you’ve got to take that very seriously when you go there. Well,
@@ -702,26 +702,26 @@ year I would live at the fraternity, and with all my fraternity
 brothers. 
 
 The first thing, though, was something we called Hell
-Week. Raising. This is, or **hazing**, I mean. I’m sorry, forget that I
+Week. Raising. This is, or hazing, I mean. I’m sorry, forget that I
 said raising. And for seven days, all of us pledges, before we could
 become full-fledged fraternity members, were at the mercy of all the
 other brothers, who would have their paddles, and also, you know, we
 were sleep deprived, and basically they were, we were also cleaning
-the fraternity house, so **that’s when I learned about ammonia and
-painting things**, and scrubbing walls, and doing other, you know,
+the fraternity house, so that’s when I learned about ammonia and
+painting things, and scrubbing walls, and doing other, you know,
 fixing the roof, and things like this, that we would be doing, but
 then, but meanwhile they would also, they would play tennis where we
 were the balls, and they would, you know, swat us, and it hurt; and do
 other things to make sure that, you know, we knew that they had the
 power and we were just unimportant now.
 
-So **this is illegal now**, and,
-but it was **my equivalent of going through boot camp**, I guess, which,
+So this is illegal now, and,
+but it was my equivalent of going through boot camp, I guess, which,
 you know, I never went into military service. And, you know, I matured
 an awful lot during that week. After that week, and I’d gotten through
 without the, you know, this time, I had a confidence that I’d never
-had before, so **it’s hard for me to say that I wouldn’t want my son to
-go through the same thing**. I don’t think he ever did, but it’s a
+had before, so it’s hard for me to say that I wouldn’t want my son to
+go through the same thing. I don’t think he ever did, but it’s a
 paradoxical thing, in my estimation. Still, that was part of getting
 into the fraternity, and I have a picture of myself that they took at
 the end of it, unshaven, and looking pretty beat, but still knowing
@@ -735,20 +735,20 @@ a way that is legal, would be legal. Now we’d have people suing.
 At my fraternity, my best friend, who was also in the Honor Section at
 Case, his name is Bill Davis, he now, by the way, is a mathematics
 professor at Ohio State, and is very active in internet online
-education for teaching mathematics, but anyway, **Bill and I were bosom
-buddies during my freshman year**, and he, and then also in the
+education for teaching mathematics, but anyway, Bill and I were bosom
+buddies during my freshman year, and he, and then also in the
 sophomore year we both pledged Theta Chi fraternity, and so then we
 also went through Hell Week together and had rooms next to each other
 in the fraternity house.
 
-So **I started to date a girl** at Western
+So I started to date a girl at Western
 Reserve University; her name was Betsy, and her roommate was named
-Jill, and **Bill was dating Jill**, so I was — now, Betsy was Catholic, and
+Jill, and Bill was dating Jill, so I was — now, Betsy was Catholic, and
 I was Lutheran, and this was something that we thought, well, our
 families would never be able to understand, but still I thought that
-Betsy was pretty terrific, but **I was also dating a girl named Becky**, a
-Jewish girl, whose father owned a department store in Cleveland and **I
-was dating some nurses too**, you know, there were lots of girls would
+Betsy was pretty terrific, but I was also dating a girl named Becky, a
+Jewish girl, whose father owned a department store in Cleveland and I
+was dating some nurses too, you know, there were lots of girls would
 hang out around the Case area, and, but I was mostly interested in
 this Betsy, and I was, I decided to, and we’d had double dates with
 Bill Davis and his girl Jill, and as I said, Betsy and Jill were
@@ -756,41 +756,41 @@ roommates; Bill and I were roommates.
 
 So I was wondering, you know,
 how I’d ever be able to make more of a hit with Betsy, and I decided I
-would have **lunch with Jill, to ask her for advice**. And so this was
+would have lunch with Jill, to ask her for advice. And so this was
 probably the, my sophomore year, the spring of my sophomore year, and,
 you know, she was such a good listener, and gave such good advice,
-that **I started dating Jill instead, and well, I’m not sure Bill ever
-forgave me for that**, but she didn’t really like him, she thought, she
+that I started dating Jill instead, and well, I’m not sure Bill ever
+forgave me for that, but she didn’t really like him, she thought, she
 said, well, anyway.
 
 Well, anyway, Jill is the one that I eventually
-got pinned to, and engaged to and married to, and **we’ve been married
-now for 45 years**. And Jill and I started having dates in the library,
-where we would study together, and, you know, I found that **I enjoyed
-kisses for the first time**, when they came from her. In high school I
+got pinned to, and engaged to and married to, and we’ve been married
+now for 45 years. And Jill and I started having dates in the library,
+where we would study together, and, you know, I found that I enjoyed
+kisses for the first time, when they came from her. In high school I
 was afraid to kiss girls, even when they would stand up.
 
 I mean, I was
 dating a girl in high school who was about four and a half feet tall,
 I don’t remember her name any more, but I remember that she was real
-cute, because, **I always liked short girls**, because they seemed to, you
-know, have a good balance, **they didn’t fall over as easily** as tall
+cute, because, I always liked short girls, because they seemed to, you
+know, have a good balance, they didn’t fall over as easily as tall
 ones, and I, being tall, I was, you know, but she was a cheerleader,
 and she stood on the steps of her house, and with her lips turned up,
 and I figured I’d got to kiss her, but I’d never done this before, how
 am I going to do it you know.
 
-And so I did, but **I never realized how
-good it could be until I kissed Jill**, when I was a sophomore.
+And so I did, but I never realized how
+good it could be until I kissed Jill, when I was a sophomore.
 
 [14 - Bible study at university and a time of personal challenge](http://webofstories.com/play/17073)
 -----------------------------------------------------------------------------------------------------
 
 I’m not a real involved with the groovy set, I guess, throughout all
-my student time, and I remember then **Jill and I** started getting to
+my student time, and I remember then Jill and I started getting to
 know each other real well, and we would go to church together on
-Sundays. She was a Methodist, I, we studied, **we went to Bible Study
-classes** at her church on Sunday School. I had never gone to Sunday
+Sundays. She was a Methodist, I, we studied, we went to Bible Study
+classes at her church on Sunday School. I had never gone to Sunday
 School, because I went to a Lutheran School as a child. We had
 something about Bible during the week, so why should I do something,
 why should I do anything more on Sunday? I’ve had plenty of religion
@@ -799,10 +799,10 @@ tradition was to go to study the Bible on Sunday mornings, and so I
 went with her to church, and I learned something about that. 
 
 In
-college, our teachers were, I was introduced to lots of **atheists**, and
+college, our teachers were, I was introduced to lots of atheists, and
 people from lots of different religious experiences and this was
 something totally different, totally foreign to my previous
-experience, and I, so **I went through a time of personal challenge**,
+experience, and I, so I went through a time of personal challenge,
 where I was trying to say, well, what do I really believe? Up to that
 time I had just, I had just listened to what my teachers said and
 passed the exams, and did what was expected of me, but I internalized
@@ -815,8 +815,8 @@ college, before I became somewhat comfortable with my, with
 internalizing what I had been taught as a child. And I’m sure that if
 I’d come from another background, I would have turned out differently,
 but, and I personally believe now that God is alive in many ways, but
-I do believe, you know, **I do believe that God is somehow,
-mysteriously, involved with our universe**, and that underlies a lot of
+I do believe, you know, I do believe that God is somehow,
+mysteriously, involved with our universe, and that underlies a lot of
 what I do, and I also know I will never be able to prove it, but I’m
 thankful that I could never prove it, because if it was proved, I
 think then I would lose interest in the whole subject; there would be
@@ -829,17 +829,17 @@ future wife.
 [15 - Extracurricular activities at Case](http://webofstories.com/play/17074)
 ------------------------------------------------------------------------------
 
-I was on **lots of sports teams**, the cross country team, baseball. We
+I was on lots of sports teams, the cross country team, baseball. We
 would have a chance to; we would have a chance to travel to lots of
 other places then, with the team. That was fun as well. I worked on, I
-was the **founding editor** of this magazine, *The Engineering and Science
+was the founding editor of this magazine, *The Engineering and Science
 Review*, and then, active in various other things, for example I was
-**vice president of my fraternity**.
+vice president of my fraternity.
 
 There was one story about the
 newspaper and my fraternity I might as well mention. That we, I was, I
 would go to downtown Cleveland, where the newspaper was being typeset,
-and **that’s where I first got experience with Linotype machines**, and
+and that’s where I first got experience with Linotype machines, and
 the way real printing was done. And I would be the, at first I was the
 copy editor, so I would check for errors in the text, before they did
 the final print run, and I noticed that there was a story about one of
@@ -848,8 +848,8 @@ we had served hot buttered rum, and, well, it dawned on me that we
 actually weren’t supposed to serve rum at a fraternity party, and
 still, it was a linotype machine, and you had to pay for every
 correction that you made, and you had to keep your corrections to one
-line, if they had to reset several lines — so **I changed it to hot
-buttered popcorn**. And that worked out okay for the — for the
+line, if they had to reset several lines — so I changed it to hot
+buttered popcorn. And that worked out okay for the — for the
 story.
 
 Now, so I got more experience in writing, publishing, during
@@ -858,8 +858,8 @@ teacher, as freshmen, and we had very good teachers also, you know, in
 my Western Civilization class, sophomore, junior years, so all the
 time I was writing. I was writing stories for, I was, you know,
 writing term papers, but I was also writing for campus
-publications. And I came to believe that really **my education boiled
-down to 50% mathematics, 50% English**; 50%, you know, writing skills,
+publications. And I came to believe that really my education boiled
+down to 50% mathematics, 50% English; 50%, you know, writing skills,
 and somehow combining those two things, for the rest of my life is
 what everything else was somehow a mixture of those two things. 
 
@@ -869,12 +869,12 @@ something called the Honor Key, which is based on points. You get so
 many points for being in the band, so many points for being in a
 fraternity, not very many for that, but certainly for the newspaper
 and for singing in the choir, chorus, and participating in other
-campus things, and **if you get a certain number of points then you win
-the Honor Key**, and at, you know, at Graduation Day they’ll mention the
+campus things, and if you get a certain number of points then you win
+the Honor Key, and at, you know, at Graduation Day they’ll mention the
 four or five students who have won the Case Honor Key. Well, it turned
 out I had enough points to win the Honor Key, but after three years,
-and, you know, so I think I had more points, **more Honor Points than
-anybody else had had in the history of Case**, so again I was, you know,
+and, you know, so I think I had more points, more Honor Points than
+anybody else had had in the history of Case, so again I was, you know,
 a machine, saying, “Oh? There are points for this? Okay, I’d better do
 this.” And I signed up for these things. So I was involved with lots of
 extra-curricular stuff.
@@ -885,8 +885,8 @@ to perform at the whatever they call it, the oh, I forget what it was;
 it was an annual thing, where each fraternity would put on some kind
 of a skit. Varsity Day, or something, I can’t remember what we called
 it. And we would go to a theatre in downtown Cleveland and perform for
-whoever wanted to listen in. I **wrote this five-minute musical comedy
-called “Nebbish Land”**, based on nebbishes, you know, these were
+whoever wanted to listen in. I wrote this five-minute musical comedy
+called “Nebbish Land”, based on nebbishes, you know, these were
 popular in the Greeting Card Industry at the time. And that I still
 have the score for, so maybe I’ll, maybe I’ll put some of the music
 for that in my book on fun and games.
@@ -896,17 +896,17 @@ for that in my book on fun and games.
 
 At Case I put a lot of time into stuff out of class, but in class, I
 found a really clever way to, right now, let me brag this way to say,
-to **avoid having to study too hard**, for my classes. In the first place,
+to avoid having to study too hard, for my classes. In the first place,
 I noticed though, that when I was a sophomore, my grades started to go
 down, in the first part of my sophomore year. And I ascribed it to too
 much ping-pong playing and playing cards too much in the dorm, and so;
-no, I’m sorry; this was the **second half of my freshman year. I started
-having a little problem with my grades**, and so I had to give up
+no, I’m sorry; this was the second half of my freshman year. I started
+having a little problem with my grades, and so I had to give up
 ping-pong.
 
 But starting in my sophomore — junior year, I found out that
-you could take graduate courses at Case, and they were **easier than the
-undergraduate courses**. The reason is that Case had really strict
+you could take graduate courses at Case, and they were easier than the
+undergraduate courses. The reason is that Case had really strict
 admissions requirements for undergrads, but they were fairly loose
 about admitting graduate students. I think they wanted to build up,
 you know, admit graduate students, so when you had graduate students,
@@ -919,15 +919,15 @@ these hotshot undergrads would be taking the other classes.
 And as a
 result, I had accumulated also, by the time I was a senior, I had
 accumulated lots and lots of graduate credits. Now, as a result then,
-Case did, on Graduation Day, Case did **an unprecedented thing that had
-never been done before, they awarded me a Master’s Degree**,
+Case did, on Graduation Day, Case did an unprecedented thing that had
+never been done before, they awarded me a Master’s Degree,
 simultaneously with my Bachelor’s Degree. And this, the faculty had
 gotten together and made a, and voted unanimously that this should
 happen, and I remember, you know, that was another thing that got into
 the newspapers at the time, that they were awarding a Master’s Degree
 at the same time as a Bachelor’s Degree. So, but the reason was that I
-had taken these graduate courses because they were easier. I didn’t, **I
-don’t know if I’ve ever told anybody else this** before today, but that
+had taken these graduate courses because they were easier. I didn’t, I
+don’t know if I’ve ever told anybody else this before today, but that
 was one of the reasons I could do so many other things.
 
 [17 - Physics, welding, astronomy and mathematics](http://webofstories.com/play/17076)
@@ -936,17 +936,17 @@ was one of the reasons I could do so many other things.
 I started in physics, and I continued in physics; as I said, I liked
 my math teacher very much, but I was a physics major, and in sophomore
 year I had another very good physics professor, and started learning
-**quantum mechanics**, and had classes in astronomy, and I also had a
+quantum mechanics, and had classes in astronomy, and I also had a
 class called, I don’t know what it was called, but it was a laboratory
 class.
 
-All **physics majors were required to know how to do things like
-welding**. Now, I was always very **bad at lab work**, in chemistry lab, I
+All physics majors were required to know how to do things like
+welding. Now, I was always very bad at lab work, in chemistry lab, I
 was always the last to finish experiments, and I would break the
 beakers and get chemicals on my hands and burn them and things like
 this, and start fires, things; it was bad, but when I got into this
-welding, this class where I’m supposed to do **welding, it was just
-dreadful**. I mean I couldn’t see, you know, I wear rather heavy
+welding, this class where I’m supposed to do welding, it was just
+dreadful. I mean I couldn’t see, you know, I wear rather heavy
 glasses, and we had to wear goggles while we were welding, but the
 goggles wouldn’t fit over my glasses, so I couldn’t, you know, so I
 couldn’t wear my glasses and my goggles at the same time.
@@ -960,15 +960,15 @@ holding this thing way out of my range, and I’m supposed to, you know,
 I’m supposed to get, solder things together, or whatever you call the
 stuff, and when I was supposed to put, to get one thing attached to
 another, the teacher would, you know, would pick it up and it would
-fall apart, by its own weight, so I was **failing in welding class**. And
-it was **terrifying** too, you see, with all this electrical juice going
+fall apart, by its own weight, so I was failing in welding class. And
+it was terrifying too, you see, with all this electrical juice going
 on in there, and me not being able to...
 
 My astronomy class, I found out
 that it was very frustrating. I could pass all the exams, in fact I
-got a 100 on every exam in **my astronomy class, but secretly I hated
-the subject**, and I decided that I would continue the classes **as
-self-discipline**, because I didn’t want the teacher to know that I
+got a 100 on every exam in my astronomy class, but secretly I hated
+the subject, and I decided that I would continue the classes as
+self-discipline, because I didn’t want the teacher to know that I
 hated the class. And I figured, you know, I’m not going to be, I have
 to learn how to do stuff that I don’t enjoy as well as stuff that I
 enjoy. So I studied very carefully for the exams in astronomy, but I
@@ -980,21 +980,21 @@ from mathematics, in astronomy you would never be able to go to the
 sun and really know what it was like there. You always had secondary
 information. If I would be an astronomer, I would never, I would, I
 would have to die before I would know anything, which was really true,
-because it’s **all based on speculation**. It’s all based on our best
+because it’s all based on speculation. It’s all based on our best
 guesses about the way the universe is, and nothing that you can really
 experience yourself, or prove correct. In physics, the same way,
 nature is beyond our grasp, and you don’t know. 
 
 But mathematics was
-different. **Mathematics had this certainty about it** that, where you
+different. Mathematics had this certainty about it that, where you
 could finish a problem, and you could say, you know, I know I’ve got
-the answer. And so I like that. **It was easy**. It’s much easier; you
+the answer. And so I like that. It was easy. It’s much easier; you
 know, I have to admire the people who, the scientists who spend their
 life and never know whether they’ve solved the problem or not, they
 just get supporting evidence for or against it, but to me, anyway,
 mathematics got more and more appealing, for the reason that it gave
-me some certainty; **just the opposite of the reason why religion was
-appealing**, because it didn’t have certainty, I mean I would feel
+me some certainty; just the opposite of the reason why religion was
+appealing, because it didn’t have certainty, I mean I would feel
 unhappy of the life where I had nothing certain, and life where I had
 everything certain. In either extreme, life, it’s hard for me.
 
@@ -1003,9 +1003,9 @@ everything certain. In either extreme, life, it’s hard for me.
 
 I gravitated toward mathematics. And there was another reason. Our
 mathematics teacher was very, was a very eccentric guy, and also very
-hard, my **second year mathematics teacher**, also hard to please, and he
-had quite a reputation at Case, because, **a couple of years earlier, he
-had flunked the entire class**. He decided that none of them was
+hard, my second year mathematics teacher, also hard to please, and he
+had quite a reputation at Case, because, a couple of years earlier, he
+had flunked the entire class. He decided that none of them was
 learning anything; he gave F to everybody in the course, so Louis
 Green was a legend at Case.
 
@@ -1014,20 +1014,20 @@ sophomore, called “Basic Mathematics”, which he had written the textbook
 for himself. And that was a course where you, stuff like, lot, things
 that are different from the continuous things that physicists
 study. And there must, you know, there must be something in the way I
-grew up that made **integer numbers more appealing to me**. I, I mean it’s
-associated with computing, as everyone knows now. Of course **computers
-didn’t exist**, or hardly existed in those days.
+grew up that made integer numbers more appealing to me. I, I mean it’s
+associated with computing, as everyone knows now. Of course computers
+didn’t exist, or hardly existed in those days.
 
 I’ll speak more about
 my first view of a computer later, but the, here we are, in Louis
 Green’s “Basic Mathematics” class, and I’m getting to a different kind
 of mathematics than calculus, and one day he gave a problem to the
-class. He said, “Here’s a problem that I don’t think — **if anybody solves
-this problem, I’ll give you an automatic A in the class**”. And the
+class. He said, “Here’s a problem that I don’t think — if anybody solves
+this problem, I’ll give you an automatic A in the class”. And the
 problem, now, it turns out, well, I can state the problem, he said, if
 you, putting parentheses around into a mathematical formula, if you
-have a formula with five variables, A, B, C, D, E. **How many ways can
-you put parentheses into that formula** so that you are combining two
+have a formula with five variables, A, B, C, D, E. How many ways can
+you put parentheses into that formula so that you are combining two
 things at a time?
 
 So you could say, A, you could say, parenthesize AB,
@@ -1036,45 +1036,45 @@ and C and combine that with A, and so different ways to do this. So if
 you start out with *n* of these variables, and you put, you combine with
 parentheses, what, how many ways are there to do it? And this, by the
 way, is something very dear to the hearts of computer scientists now,
-because we call it **the number of binary trees with *n* leaves**. But
+because we call it the number of binary trees with *n* leaves. But
 Louis Green gave us, as a problem, as a challenge, could we determine
 this number? And if anybody could, he said he’d give an A to
 them.
 
 Well. I don’t know to this day whether he knew the answer to the
-problem or not, but I have found out subsequently that **the answer was
-published in the 18th century**, and, and had a long history. And so
+problem or not, but I have found out subsequently that the answer was
+published in the 18th century, and, and had a long history. And so
 these numbers are so famous now that one of my friends, Richard
-Stanley at MIT, has found **128 different interpretations** of these
+Stanley at MIT, has found 128 different interpretations of these
 numbers, parentheses is just one of these 128 ways. And he’s collected
 that many ways. In fact I had the honor of discovering number 128 last
 year, when I was with him in Sweden, but that’s; anyway.
 
 My sophomore
 year, Louis gives us this problem, and we all knew Louis’s reputation,
-so we figured, **why work on the problem? He’ll never give out a problem
-that we could actually solve**, why should we, you know, why should we
+so we figured, why work on the problem? He’ll never give out a problem
+that we could actually solve, why should we, you know, why should we
 waste time on this silly thing? But it turned out that I was on the
-football, I was in the band, actually, not the football team, and **our
-band was going to play in Detroit**, at the football game, on Saturday,
-but **I missed the bus. I got up too late**, so I was, so I found out the
+football, I was in the band, actually, not the football team, and our
+band was going to play in Detroit, at the football game, on Saturday,
+but I missed the bus. I got up too late, so I was, so I found out the
 bus had just left for Detroit, and I had a whole, and I had figured
 I’d spend all, you know, a wasted day, all day in Detroit.
 
 So I
 figured, okay, I’ll work on Louis, I’ll spend this day thinking about
-Louis Green’s impossible problem. And **I got lucky, and figured, and
-found the answer to it**, and so I wrote it up on two sheets of paper,
+Louis Green’s impossible problem. And I got lucky, and figured, and
+found the answer to it, and so I wrote it up on two sheets of paper,
 and turned it in on Monday morning, and he looked it over, and on
-Tuesday, he said, **“Okay, you get an A in this class.”** So I’m still a
+Tuesday, he said, “Okay, you get an A in this class.” So I’m still a
 physics major, but I took his math class, and so I cut class the rest
 of the quarter, and he lived up to his agreement, and I got an A on
 my, on the score.
 
 Well, I felt a little guilty afterwards, having cut
 class, so I served as his grader for his course the following
-year. But that, what was I going to say? So, but **that summer I
-switched into mathematics as a major**, because of my experience with
+year. But that, what was I going to say? So, but that summer I
+switched into mathematics as a major, because of my experience with
 the welding in physics, and because I found that mathematics was
 something that I would be able to actually prove, prove correctness,
 and that, this appealed to me. Still, I didn’t study mathematics that
@@ -1086,8 +1086,8 @@ in my college grades.
 
 How did I get into computers? I had a scholarship to Case, but it was,
 it didn’t cover my whole tuition; it just covered part of the tuition,
-and so I took a part time job. My parents had no money, and I took **a
-part time job working in the Statistics Department**. Taking, and one of
+and so I took a part time job. My parents had no money, and I took a
+part time job working in the Statistics Department. Taking, and one of
 the things I would do, would run a card sorter, an IBM card sorting
 machine, which was kind of a fascinating thing. You put the; take
 these punched cards, and you put them in the thing, and it distributes
@@ -1097,8 +1097,8 @@ drawing graphs for the Statistics Department.
 
 I guess I should say
 something more about graphs, while it flashes into my mind. In high
-school, I had taken time, one summer, working with; I was **fascinated
-by this idea of graphs** in mathematics, where you have, you know, as a
+school, I had taken time, one summer, working with; I was fascinated
+by this idea of graphs in mathematics, where you have, you know, as a
 function, as variable X varies, you have Y as a function of X, then
 you draw the position that’s Y units above the axis, and it makes a
 picture. And since I like visual things, I was fascinated by the idea
@@ -1110,8 +1110,8 @@ graphs, where I would take, where I would take an equation like the
 square root of X? + 5, 5x, minus something else, and I would, and then
 I would draw the graph. 
 
-And I had, and **my dad had a little calculating
-machine**, which was a, where I, which could calculate square roots. It
+And I had, and my dad had a little calculating
+machine, which was a, where I, which could calculate square roots. It
 actually would print it out. He was an accountant, so it would also
 print it out on tape, that I could run this machine and it would do
 the multiplying and stuff for me, and then I would have this function
@@ -1122,8 +1122,8 @@ different graphs looked.
 I didn’t have calculus, I didn’t know
 calculus in high school, but I did know how to graph an equation, and
 that fascinated me, so I had played, I worked so hard on this, in
-fact, on this orange graph paper that I had, **I started to get
-headaches**, it was not easy on the eyes, and I think I started wearing
+fact, on this orange graph paper that I had, I started to get
+headaches, it was not easy on the eyes, and I think I started wearing
 heavier glasses at this time, because I worked on the graphs, but this
 had given me some experience with graphs, and liked, I liked that kind
 of mathematics, even when I was in high school. 
@@ -1133,8 +1133,8 @@ first, I got my first part time job at Case; I’m supposed to draw
 graphs for the statisticians. So that’s fine, and downstairs from the
 sorting machine was a new computer, an electronic brain, as they
 called it, in those days, and it was the first, it was called the IBM
-Model 650. This was the, historically, **the first computer that was
-mass-produced**; there were more than 1,000 of them. Before that,
+Model 650. This was the, historically, the first computer that was
+mass-produced; there were more than 1,000 of them. Before that,
 computers had; no computer had been made more than a few dozen at the
 most.
 
@@ -1143,13 +1143,13 @@ Case, and it was sitting in a room downstairs from the Statistics
 laboratory, where I was working. So I could peer through the window at
 this computer, and with its flashing lights it looked rather
 exciting. And one day a guy saw me looking through the window, and he
-said, **he invited me to come in, and he explained to me how the machine
-worked**, and so it was quite fascinating to me that it could do things
+said, he invited me to come in, and he explained to me how the machine
+worked, and so it was quite fascinating to me that it could do things
 much different than this mechanical calculating machine that my dad
 had shown me.
 
-So I took a look at **the operating manuals for the
-machine**, and pretty soon I, he allowed me to punch cards that would go
+So I took a look at the operating manuals for the
+machine, and pretty soon I, he allowed me to punch cards that would go
 into that machine, as what; you know, I knew how to run a sorter, but
 now I could actually punch a card that would make a computer
 program. And I, and so I began to learn something about the inside of
@@ -1162,9 +1162,9 @@ I read the manuals that came from IBM, and it had; the manuals had
 example programs in there, and I thought of better ways to write those
 programs. I thought of, you know, well, okay, this program works, but
 if you did it this way, it would be even better. And so that’s given
-me some confidence that maybe I had a talent for programming. Now, **if
+me some confidence that maybe I had a talent for programming. Now, if
 the manual hadn’t had these bad examples in it, I probably would not
-have gotten interested in programming**, because I wouldn’t have this
+have gotten interested in programming, because I wouldn’t have this
 confidence, and I would have been scared and say, oh, I would never
 think of this.But the fact is, the manuals were pretty stupid, and
 that’s what gave me the confidence that I should think a little more
@@ -1174,12 +1174,12 @@ it.
 So, you know, I started to learn a little bit about computers in
 my Freshman year, then when I pledge at the fraternity, one of the
 fraternity brothers had a problem that he needed to solve, and he was
-eval — **finding the roots of fifth degree equations**. And I had learned
+eval — finding the roots of fifth degree equations. And I had learned
 about a program called the Bell Interpretive System that was, that
 looked like it wouldn’t be too hard to solve this problem on, and so,
 since he was, you know, he didn’t really want to do it himself, so for
 my fraternity brother I wrote a, I wrote something that would, could
-**do one of his homework problems for him**, and that was, and it seemed
+do one of his homework problems for him, and that was, and it seemed
 to run correctly the first time. I find it hard to believe, now, but
 it, as far as I know, it did.
 
@@ -1187,7 +1187,7 @@ And so he was happy about that, and I,
 you know, and I got more involved with the people at the computing
 center, where, when I, when they stared letting me use this IBM
 machine during the night. And so between my freshman and sophomore
-year, I was, I had **a part time job at the computing center**, working
+year, I was, I had a part time job at the computing center, working
 for them. Really, they allowed us to write software that other people,
 other students, would be using.
 
@@ -1196,14 +1196,14 @@ and it was the following; I had to find the prime factors of a
 number. So you would dial in on the console of the machine; there were
 rotary switches, and you could set the switch to some number, like
 100, and then it would punch out 100 is equal to two times two, times
-five, times five. So we **find the prime factors of the number you dial
-on the console switches**.
+five, times five. So we find the prime factors of the number you dial
+on the console switches.
 
 I still have a copy of my program for that,
 that I wrote, and it started out something like 60 or 70 instructions
 in the program originally, and two weeks later I had the program
 working correctly, and it had about 130 instructions in it, and I
-think I had removed **more than 200 errors**, during the time. I mean I
+think I had removed more than 200 errors, during the time. I mean I
 not only learned about programming, but about making errors. So what
 can go wrong when you? Well, anyway, I did, I didn’t really know that
 much about programming, at the time, but I learned it a heck of a lot
@@ -1212,20 +1212,20 @@ by this exercise of trying to find prime factors of a number.
 [21 - Learning how to program on the IBM 650 (Part 2)](http://webofstories.com/play/17080)
 ------------------------------------------------------------------------------------------
 
-So I learned certain things like, what’s; this was **a decimal computer**,
+So I learned certain things like, what’s; this was a decimal computer,
 it worked not in the binary system, but in the decimal system, and you
 had ten-digit numbers, so I could learn, so it was also very slow, the
 division instruction in the machine took four milliseconds, that’s a,
-I think it’s something like four nanoseconds, in other words **now
-machines go a million times faster**. But you know, incredibly slow by
+I think it’s something like four nanoseconds, in other words now
+machines go a million times faster. But you know, incredibly slow by
 today’s standards, but, so you couldn’t do that many divisions per
 second.
 
 And my method of finding prime factors was just to try
 dividing you know, you can divide by two? No. Divide by three?
 No. Divide by four? No. Until you find a factor. So now you take the
-largest ten-digit number that doesn’t have any factors. **This program
-would take a long, long, long time**. So one of the things I had to do
+largest ten-digit number that doesn’t have any factors. This program
+would take a long, long, long time. So one of the things I had to do
 was make it go a little faster. I wouldn’t divide by two and three and
 four and five, I could skip over the even numbers if it’s not
 divisible by two, it’s not divisible by four.
@@ -1234,8 +1234,8 @@ And, you know, I had to
 do things like that in order to, then I, as soon as I got up to a five
 digit divisor, then I could stop; I didn’t know then back then, you
 know, I didn’t realize that at first, but I didn’t have to divide by
-every possible thing, because **if it has a divisor at all, the smallest
-divisor has to be less than the square root** of the number you’re
+every possible thing, because if it has a divisor at all, the smallest
+divisor has to be less than the square root of the number you’re
 looking at, less than or equal. I think I first thought less than, and
 then I, then I found I had to change my program to less than or
 equal.
@@ -1243,8 +1243,8 @@ equal.
 One of the most subtle bugs was, and it took me, and it took me
 a hard time to do it, was the following. What if the number had lots
 and lots of prime factors? Well it turned out there are ten-digit
-numbers that have, **I could only punch eight prime factors on a card,
-on the answer card**, and so I would have to prepare my program, because
+numbers that have, I could only punch eight prime factors on a card,
+on the answer card, and so I would have to prepare my program, because
 I mean you can have more than 30 prime factors, so I could, so I had
 to change my program so that it wouldn’t only punch one card as the
 answer, but it would also punch up to four cards.
@@ -1252,23 +1252,23 @@ answer, but it would also punch up to four cards.
 So anyway this was,
 I’m just trying to explain why this little program of finding prime
 factors was so instructive for me at the time, and I did it near the
-end of my freshman year, and I was allowed **to spend all night sitting
-at the machine, turning the dials, turning the buttons**, and Case had
+end of my freshman year, and I was allowed to spend all night sitting
+at the machine, turning the dials, turning the buttons, and Case had
 an extremely intelligent attitude toward undergraduates. They allowed
 us to go and touch the computers, do everything ourselves, work
 overnight, sleep in the, you know, in the room, and write programs
 that would be used by other people on campus.
 
 And Stanford had a
-completely different idea. If you used the computer **at Stanford, I
-learned later, they had a professional staff** that had been sent to
+completely different idea. If you used the computer at Stanford, I
+learned later, they had a professional staff that had been sent to
 them by IBM, of scientists who would do the; you would submit the job
 to them, they would put it through the machine, and you know, you’d
 get your answers the next day.
 
 Case, all hands on, we are allowed to
-all that stuff ourselves, and even, **they didn’t worry that we were
-going to break the machine**, you know, we’d learned how to open up the
+all that stuff ourselves, and even, they didn’t worry that we were
+going to break the machine, you know, we’d learned how to open up the
 panels, and you know, when paper jams and cards jam, and things like
 this, or, we could wire the boards and all that stuff. So what if
 we’re freshmen? That’s okay. And I think Case and Dartmouth were the
@@ -1280,13 +1280,13 @@ to play with the machines in those days.)
 
 So I got my summer job at, in the computing center, so I didn’t come
 home to Milwaukee, except for a short trip that summer. And this was
-**before I had met these girls** I was telling you about, in my sophomore
-year. So **I had only the computer to be with**, and my second program was
+before I had met these girls I was telling you about, in my sophomore
+year. So I had only the computer to be with, and my second program was
 to change the numbers from decimal to other bases, but my, but that
 was a fairly quick.
 
-**My third program** is the one that I spent the most
-time on at that time, was **to play tic-tac-toe**. Now I found out later
+My third program is the one that I spent the most
+time on at that time, was to play tic-tac-toe. Now I found out later
 that a lot of computer scientists have worked on tic-tac-toe, Charles
 Babbage, the famous guy who, you know, was planning a machine that
 could do tic-tac-toe in England in the 1800s, Danny Hillis built a
@@ -1299,7 +1299,7 @@ I wasn’t using Tinker toys, but this IBM 650 had another
 interesting feature; not only was it decimal, with ten-digit numbers,
 but it only had 2,000 altogether. So the total memory of that computer
 was, oh well, let me see, 2,000 times, well what have we got? Five
-bytes or so? So that’s **ten K bytes of memory**. Now, right now, if you
+bytes or so? So that’s ten K bytes of memory. Now, right now, if you
 don’t have ten gigabytes, oh well, ten megabytes, you know, you’re
 dead. You can’t load Microsoft Windows unless you hundreds of
 megabytes, but here we had 10,000 bytes, total.
@@ -1309,22 +1309,22 @@ wanting it to play tic-tac-toe against me. I wrote three versions of
 tic-tac-toe. One was an expert version, which you know, I pre-planned
 a strategy that I knew was going to be right. What’s the second
 version? I can’t remember. But the third version was the most
-interesting. This was **the learning version, where the machine starts
-out knowing nothing**. And it learns by experience. So it, so it
+interesting. This was the learning version, where the machine starts
+out knowing nothing. And it learns by experience. So it, so it
 remembers all the possible positions on the tic-tac-toe board, just
 barely enough to fit inside of ten K bytes, and every time it plays a
 game, if it lost a game, it said, oh, these moves that I made were
 bad. The moves that the other guy made were good. If it won the game,
 it said, oh, my moves were good; the other guy’s were not. So it would
-adjust; it kept; it had **one digit for every position**, so it would
+adjust; it kept; it had one digit for every position, so it would
 start out like at four, and if you’d win a game it might go five. If
 you’d lose, it’d go to three. And so then if you had different moves,
 you’d it would try the ones that looked good in its ranking, and that
 took me a month to write the program, and I learned a lot playing
 around with that.
 
-And afterwards I, then **I tried the learning program
-against the expert program**, so I would use the expert program to play
+And afterwards I, then I tried the learning program
+against the expert program, so I would use the expert program to play
 and train the learning program, so how many times would the expert
 play against, you know, like I think it was like 120 games or
 something, then the learning program learned not to lose against the
@@ -1334,8 +1334,8 @@ Tic-tac-toe is a kind of boring game, because if you really
 know how to play it, every game comes out as a cat’s game; it’s a
 tie. Nobody wins. But before that it’s interesting. When you make bad
 moves, it gets really exciting. So then I said, okay, now I’m going to
-have two learning. I’m going to **have the learning game play against
-the learning game**, so both of them start out knowing nothing about the
+have two learning. I’m going to have the learning game play against
+the learning game, so both of them start out knowing nothing about the
 game, and each of them, so originally all their moves are completely
 blindfolded, and you know, they’re blundering along, but then at the
 end somebody happens to win the game, or somebody happens to lose the
@@ -1355,8 +1355,8 @@ My family went to a summer camp in, on the shore of Lake Erie for a
 week, that summer, and, Linwood, it’s called. I revisited it a couple
 of years ago, to remember. Anyway, it’s on the beach, two weeks we
 were there, and I would play tennis with my uncles and so on, but I
-also **had brought with me the, a couple of examples of computer
-programs that I had heard about**, and so I had some spare time while
+also had brought with me the, a couple of examples of computer
+programs that I had heard about, and so I had some spare time while
 I’m at the summer place, to look at these programs. And this made a
 big influence on my future life, actually.
 
@@ -1364,17 +1364,17 @@ One of the programs was
 what they call an assembler, which was, meant that instead of writing
 in the machine language, you could write in a more symbolic language
 that would make it easier for, I mean I, when I started my programming
-**I was just programming everything in numbers**. And so, if I wanted to
+I was just programming everything in numbers. And so, if I wanted to
 add, add a number in location one to the number in location two, I
 would have to say something like, 20, oh, oh, one, something, anyway,
-I would have to **write all these numbers out, and punch them into
-cards**, and get it to work, and this was all I knew, when I started
+I would have to write all these numbers out, and punch them into
+cards, and get it to work, and this was all I knew, when I started
 programming.
 
 But then the symbolic, the assembly program was a
 new-fangled thing at the time, and allowed me to do it in a way that’s
-more easier to understand. **Instead of choosing a number for every
-place in my program, I could give it a name**, and then the machine
+more easier to understand. Instead of choosing a number for every
+place in my program, I could give it a name, and then the machine
 would figure out the, you know, what number to associate with that
 name. And in those days computers couldn’t deal with letters very
 well, the computers were more set up for numbers, but we were allowed
@@ -1389,7 +1389,7 @@ program.
 
 Okay, so I’m learning about a symbolic assembler at this
 time, and so I got the code, all right? So I’m using the assembler,
-but **I was wondering how it did it**? How did you know, how, what went
+but I was wondering how it did it? How did you know, how, what went
 on, behind the scenes that would take my symbolic thing that said,
 BINGO, and put it into numbers that the machine would understand
 directly? And so I had the listing for this program called SOAP Two,
@@ -1398,12 +1398,12 @@ by Stan Poley of IBM.
 Then I had also brought with me another listing,
 from a program called IT, or Internal Translator, and this was a new
 program; had come from Carnegie Tech, later Carnegie Mellon
-University, written by four people at Carnegie, and IT took **an
-algebraic language**, instead of a machine language. So you’re writing
+University, written by four people at Carnegie, and IT took an
+algebraic language, instead of a machine language. So you’re writing
 here; it’s a; this is early days, this was before FORTRAN or other
 high-level languages were known. I’m talking here of 1956, 1957. The
-idea here then, you can write X = A + B. Ah, well, **you couldn’t really
-write that because we didn’t have plus signs**, so we would really
+idea here then, you can write X = A + B. Ah, well, you couldn’t really
+write that because we didn’t have plus signs, so we would really
 write, X one, Z, X two, S, X three, where S stood for plus, and Z
 stood for equals, and, you know, and every variable was X one, X two,
 X three or something like this, but anyway, you could put in algebraic
@@ -1415,8 +1415,8 @@ So instead of a numeric thing; instead of a symbolic version
 of a numeric thing, it was algebraic, and you would put your program
 from the IT language into the computer, and it would flash the lights
 for a while, and then, punch, punch, punch, punch, and give you a
-machine language, in the computer’s language. Magic. I couldn’t; **I
-hadn’t a clue as to how this was possible** at all, so I got a copy of
+machine language, in the computer’s language. Magic. I couldn’t; I
+hadn’t a clue as to how this was possible at all, so I got a copy of
 the program that they had used, to write this IT, translator, and I
 had a copy of the SOAP program, the Symbolic Assembly, the Symbolic
 Optimum Assembly Program.)
@@ -1425,13 +1425,13 @@ Optimum Assembly Program.)
 ---------------------------------------------------------------------------------------------------------------------------------
 
 I brought this to the summer place, and I spent nights looking at it
-and psyching out how this program worked. And, wow, I found; first **I
-figured out how this IT worked**, and so, oh yeah, that’s how they can
+and psyching out how this program worked. And, wow, I found; first I
+figured out how this IT worked, and so, oh yeah, that’s how they can
 look in the algebraic formula and convert it into instructions, but
 then, it was terrible style. The program was kludgy. You would read
-it, and **every time they would do something, they did it the hard
-way**. I looked at the SOAP program, the one that came by Stan Poley, **it
-was elegant; it was beautiful; it was like hearing a symphony**. It was,
+it, and every time they would do something, they did it the hard
+way. I looked at the SOAP program, the one that came by Stan Poley, it
+was elegant; it was beautiful; it was like hearing a symphony. It was,
 whenever it did an instruction, the instruction was sort of
 accomplishing two things at once. Everything fit together
 harmoniously; it was elegant code.
@@ -1439,8 +1439,8 @@ harmoniously; it was elegant code.
 I said, boy, I’d love to write
 programs like this guy can do. And conversely, you know, this clumsy,
 clunky code that came from the other one, wow. You know, I can do
-better than that. So **a couple of friends and I wrote an improvement of
-IT, which we called RUNCIBLE**; every program had to have an acronym in
+better than that. So a couple of friends and I wrote an improvement of
+IT, which we called RUNCIBLE; every program had to have an acronym in
 those days, and RUNCIBLE was Revised Unified New Compiler IT Basic
 Language Extended or something. We had some reason for the word R U N
 C I B L E. But we, but mainly we had, we wanted to redo that algebraic
@@ -1452,22 +1452,22 @@ And so that was how I spent my first summer at the Computer
 Center. It turned out that after RUNCIBLE was done, we also, I wrote a
 user’s manual, for how to write, you know, how to use this program,
 and curiously, this user’s manual was then used as a text book for
-students the next year. And so **I was in the unusual position of taking
-a class for which I had written the textbook, when I was a sophomore**,
+students the next year. And so I was in the unusual position of taking
+a class for which I had written the textbook, when I was a sophomore,
 one of my classes in computing.
 
 Now, RUNCIBLE, we revised it the next
 summer, and made it really, lots of bells and whistles, and still with
-our ten K bytes, but we got a **floating point attachment**, and we had
+our ten K bytes, but we got a floating point attachment, and we had
 some other things, so it was, so my friends and I came up with better
 versions.
 
-So here, this, and **I also wrote a SOAP Three**, I loved the
+So here, this, and I also wrote a SOAP Three, I loved the
 SOAP Two program we had from IBM, I wrote SOAP Three, which, which
 improved on SOAP Two, and this was used as the assembler program for
 other software development that we were doing. So here are Case is
-allowing about a dozen of us **undergrads to write software** that’s being
-**used by the other students and faculty** of Case, and I, the, Fred Way,
+allowing about a dozen of us undergrads to write software that’s being
+used by the other students and faculty of Case, and I, the, Fred Way,
 who is the director of this program, was very fore-sighted, able to
 trust the students, and allow, and you know, and to, and we had a, we
 had lots of fun talking to each other about all these issues, and we
@@ -1476,10 +1476,10 @@ did —
 New literature of journals — the *Communications of the ACM*
 started up in 1958. All of a sudden we saw that there was, there were
 people publishing ideas from other parts of the world, about how to
-write programs, and we knew that **we had already discovered a lot of
-these things too, and we had some better science** out there. So my
+write programs, and we knew that we had already discovered a lot of
+these things too, and we had some better science out there. So my
 second technical publication, after Potrzebie System for *Mad
-Magazine*, **my second technical publication** was about this RUNCIBLE;
+Magazine*, my second technical publication was about this RUNCIBLE;
 the method we’d used in RUNCIBLE, to do the conversion of formulas
 into machine code. And here I sent it to this magazine, the
 *Communications of the ACM*, which was, which we had just, began, just,
@@ -1488,20 +1488,20 @@ understanding anything about scientific journals or publication
 conventions.
 
 I had been seeing magazines; I knew what magazines were,
-and so on, but no people, but there was **no idea of credit** for
+and so on, but no people, but there was no idea of credit for
 something like this. It was just the story that was important. And so,
 when I wrote this up, I was, I considered myself to be a spokesperson,
 spokesman for these guys at Case Computer Center, who had been working
-together to create RUNCIBLE, and I, you know, so I, so **I wrote an
-article about the methods that are used in RUNCIBLE**. Nowhere in the
+together to create RUNCIBLE, and I, you know, so I, so I wrote an
+article about the methods that are used in RUNCIBLE. Nowhere in the
 article did I mention the names of these other guys, who had been
-working on it, and **I didn’t know that I was going to be getting credit**
+working on it, and I didn’t know that I was going to be getting credit
 for any of these ideas, I just wanted to describe the ideas, and so
 this was a, you know, a, I learned later more about, about the
 scientific conventions of publication, but I was just, you know, I was
-just a journalist, and I was treating the story as that. So **we set the
+just a journalist, and I was treating the story as that. So we set the
 story right when the article was published as part of my collected
-works a couple of years ago.**
+works a couple of years ago.
 
 [25 - Adding more features to RUNCIBLE](http://webofstories.com/play/17084)
 ---------------------------------------------------------------------------
@@ -1509,30 +1509,30 @@ works a couple of years ago.**
 In those days, computing was so different from what it is now, not
 only was the memory tiny, only ten K, and the speed was slow, but also
 we, the way we wrote programs, well maybe as a result of that, the way
-we wrote programs was something I would never do today, because **in
+we wrote programs was something I would never do today, because in
 order to pack it into this small memory, we had to do, resort to some
-trickery that was almost impossible to understand**, and therefore
+trickery that was almost impossible to understand, and therefore
 highly likely to cause errors.
 
 But one of the things we learned as,
-early in trying to write software, is that **the users of your software
-always suggest new features**, and they’re never satisfied. You give
+early in trying to write software, is that the users of your software
+always suggest new features, and they’re never satisfied. You give
 them ten things, and they’ll want ten more, and so we kept adding
 features and features. That’s called creeping featurism now. But we
 had only this tiny machine, so how were we going to pack more and more
 features, when there’s no space for it? And the answer is, we use more
 and more tricks.
 
-So in this compiler RUNCIBLE, there were **four
-versions of the compiler**. You could ask it to produce computer
-instructions for a machine that did, that had the so-called **floating-point
-attachment**, or maybe your computer didn’t have the floating-point
+So in this compiler RUNCIBLE, there were four
+versions of the compiler. You could ask it to produce computer
+instructions for a machine that did, that had the so-called floating-point
+attachment, or maybe your computer didn’t have the floating-point
 attachment, so you either had floating point or not. If you
 didn’t have the attachment, then you would have to go through a slower
 routine that would simulate, and pretend that the attachment’s
 there. Then you could also ask it to compile directly into machine
-language, or you could ask it to compile into the **symbolic assembler
-language**. The symbolic assembler would be able to produce slightly
+language, or you could ask it to compile into the symbolic assembler
+language. The symbolic assembler would be able to produce slightly
 better final product, but it would take longer, because after you got
 the symbolic, you’d have to take those cards and run them through
 another program before you could run them. So we had, so either
@@ -1542,8 +1542,8 @@ possibilities.
 So we wrote it, we wrote the program in such a way that
 there was a floating-point set of instructions, and a non-floating-point
 set of instructions, each of these we had exactly, let’s say,
-731 positions of memory for, so **you’d swap out those 731 for another,
-and similarly for the symbolic and non symbolic**, you could swap out
+731 positions of memory for, so you’d swap out those 731 for another,
+and similarly for the symbolic and non symbolic, you could swap out
 two parts of the program; each of those parts of the program had to be
 the exactly the same size, in order to pack it all in.
 
@@ -1551,8 +1551,8 @@ Somebody asks
 for a new feature, or we want to extend the language a little more,
 then we think of a way to do it for the floating point, but then we
 have to think of a way to shorten the non floating point part of our
-program, so **we kept on revising this program until it was really
-inscrutable**. I mean every, all kinds of tricks were used for
+program, so we kept on revising this program until it was really
+inscrutable. I mean every, all kinds of tricks were used for
 that. When I’d have a constant that was used in one routine, I would
 also make sure that it could be used in some other routine, for some
 other, completely different purpose. Almost everything in the program
@@ -1560,51 +1560,51 @@ had many uses, and therefore a few months would go by, and we’d forget
 about these tricks, and we would try to change something else, and
 something would go wrong.
 
-So it was **a very shaky, bad way to do
-software**, but it was the way that, the only way we knew how to do at
-the time, and it was, and **people couldn’t believe that we were able to
-do with such a small computer**, to do as many things as it did.
+So it was a very shaky, bad way to do
+software, but it was the way that, the only way we knew how to do at
+the time, and it was, and people couldn’t believe that we were able to
+do with such a small computer, to do as many things as it did.
 
 [26 - Wanting to be a teacher and why I chose to go to Caltech](http://webofstories.com/play/17085)
 ---------------------------------------------------------------------------------------------------
 
-**I never thought of that as a career. That was my summer job** at Case,
+I never thought of that as a career. That was my summer job at Case,
 but there was no such thing as a career in computers, and computers
 were just this weird thing on the periphery of society. What did I
 really want to do, as my own career? When I was in grade school, I
 wanted to be a grade school teacher. I wanted to, you know, if I was
 in sixth grade I was thinking of myself as a future sixth grade
 teacher, seventh grade and so on. And in high school, I wanted to be a
-high school teacher. **I always viewed myself as having, as being a
-teacher later on**, and also maybe with a part time job as a musician or
+high school teacher. I always viewed myself as having, as being a
+teacher later on, and also maybe with a part time job as a musician or
 something. So I got to college, I wanted to be a college teacher, I
 got to graduate school, I thought, okay, graduate school teacher.
 
 But
-**I never thought of computer science as a, as part of my career, it was
-something that I could do in order to make money**, to prepare myself
+I never thought of computer science as a, as part of my career, it was
+something that I could do in order to make money, to prepare myself
 for a career that I’d heard about before. It was like, so I was going
 to be a physics teacher, then I was going to be math teacher, when I
 switched to math. And I went to, okay, so, when I finally graduated
 from Case, I had been recommended that I should go to the West Coast,
 well, no, I chose the West Coast for graduate school, because my
 family, we would go; finally we had enough money to take vacations in
-the summer time, and we could drive round, and so **we had driven to the
+the summer time, and we could drive round, and so we had driven to the
 different parts of the United States, and I fell in love with
-California**, and so when I applied to graduate school, I applied to
+California, and so when I applied to graduate school, I applied to
 Caltech, Stanford and Berkeley. Basically, where should I go to, to do
 my mathematics?
 
-And **I was accepted to all three, and I had
-scholarships to all three**, and, but the, I was specially recommended
+And I was accepted to all three, and I had
+scholarships to all three, and, but the, I was specially recommended
 to Caltech, because of Professor Marshall Hall, who later became my
 advisor, since at Case we had a visitor, Professor Bose, a great
 Indian mathematician, who had just, who had been, introduced me to
-research, and he **spoke very highly of Marshall Hall**.
+research, and he spoke very highly of Marshall Hall.
 
-**Bose**, at the
-time, was doing his famous work about **disproving Euler’s conjecture
-about Latin Squares**; it’s an interesting subject, a several hundred
+Bose, at the
+time, was doing his famous work about disproving Euler’s conjecture
+about Latin Squares; it’s an interesting subject, a several hundred
 year old problem, where people hadn’t been able to construct patterns
 that are, that are useful in many parts of statistics and
 combinatorics and Euler and this greatest mathematician of all time,
@@ -1617,8 +1617,8 @@ really patterns of that kind. And so Bose got me interested in
 research, because I was at the Computer Center, and he had a computing
 problem that he couldn’t solve, and he put me to work on Latin Squares
 of order 12, and I came back the next morning with five mutually
-orthogonal Latin Squares of order 12, and **this excited him very much,
-and that was my third technical paper**, I guess, was this paper with
+orthogonal Latin Squares of order 12, and this excited him very much,
+and that was my third technical paper, I guess, was this paper with
 Bose.
 
 But he recommended Marshall Hall, who was one of the leading
@@ -1630,8 +1630,8 @@ the idea of going to Caltech.
 
 During the summer, between Case in Cleveland and Caltech in Pasadena,
 I had a summer job, of writing compilers, this algebraic, this
-software that converts algebraic language into machine language. **I had
-a job writing a compiler for Burroughs** Corporation. Burroughs was
+software that converts algebraic language into machine language. I had
+a job writing a compiler for Burroughs Corporation. Burroughs was
 headquartered in Pasadena, I mean the Burroughs Division that was
 dealing with software was headquartered in Pasadena, and Case had
 recently installed a Burroughs computer that I liked very much, during
@@ -1643,24 +1643,24 @@ going to put in a proposal to Burroughs to write a compiler for their
 machine, the Burroughs 205, for a language called ALGOL, which was
 just being invented at that time, the Algorithmic Language an
 International Standard, that was supposed to replace FORTRAN, the most
-popular language at the time. And so **Thompson Ramo Wooldridge was,
+popular language at the time. And so Thompson Ramo Wooldridge was,
 made a proposal to Burroughs for I believe it was $70,000, to create
-an ALGOL compiler** for the Burroughs 205. The people who made this
-proposal really, though, were **clueless about how to write compilers**,
+an ALGOL compiler for the Burroughs 205. The people who made this
+proposal really, though, were clueless about how to write compilers,
 so they hired me, a Case senior, to do the job, because they had heard
 that I knew how to do it. I had done this RUNCIBLE and a couple of
 versions of other software at Case, so spring of my Senior year, they
 are showing me, they’re showing me about this machine that Burroughs
 had, and I started playing around with the computer, and I had
-learned, got interested in the project, but **Burroughs turned them
-down**; they didn’t give them the contract.
+learned, got interested in the project, but Burroughs turned them
+down; they didn’t give them the contract.
 
 So after Burroughs said, no,
 they weren’t going to do it with Thompson Ramo Wooldridge, well I
 said, well, wait a minute, I’ve, maybe I’ll write to Burroughs on my
-own, and **I sent them a letter and said, I’ll, you know, for $5,000 I
-can write you an ALGOL compiler**. Now $5,000 was a huge amount of money
-in 1959, 1960. I mean **a college professor was making $8,000 a year** or
+own, and I sent them a letter and said, I’ll, you know, for $5,000 I
+can write you an ALGOL compiler. Now $5,000 was a huge amount of money
+in 1959, 1960. I mean a college professor was making $8,000 a year or
 something like this. So I thought $5,000 was an incredibly rich thing,
 you know, to do. I said to Burroughs, no, I, except that, I can do it
 in the summer, except I won’t have time to implement all of this
@@ -1669,43 +1669,43 @@ to, you know, which is actually the hardest thing to do in a compiler,
 which is of subroutines, the ability to extend the language.
 
 Well,
-they wrote back, you, we can’t have ALGOL without procedures, **you’ve
-got to put procedures in too**. And so I thought about it and said,
+they wrote back, you, we can’t have ALGOL without procedures, you’ve
+got to put procedures in too. And so I thought about it and said,
 figured out, oh yeah, okay, I see how I can do it, but you’ll have to
 pay me $5,500, instead of $5,000. So they said, okay. So I spent the
-summer of 1960, that’s after my, after graduating from Case, **I spent
-the summer writing this compiler** for ALGOL, for the Burroughs 205, and
-I wrote it, but really **I had it only in pencil and paper**, I didn’t
+summer of 1960, that’s after my, after graduating from Case, I spent
+the summer writing this compiler for ALGOL, for the Burroughs 205, and
+I wrote it, but really I had it only in pencil and paper, I didn’t
 have it ready to go, and then I would take it with me on, as I went
 out to Pasadena, and work on it there when I was at the Burroughs
 plant in Pasadena.
 
 So on my way out West; I had a little Volkswagen,
-that I had gotten from my parents, and **I drove 100 miles a day, and
-got a motel, and sat down, and wrote code**, wrote software, and took 30
+that I had gotten from my parents, and I drove 100 miles a day, and
+got a motel, and sat down, and wrote code, wrote software, and took 30
 days to drive from Milwaukee to Pasadena, every day writing a little
 bit of this software. Then I got to Pasadena, and had all my code, had
 all my notes, and started putting it on to punched cards, and you
-know, debugging it and **by Christmas time I had their compiler for
-them**, and it was a machine that didn’t sell very well, so there
+know, debugging it and by Christmas time I had their compiler for
+them, and it was a machine that didn’t sell very well, so there
 weren’t too many places in the world, but I heard for the next ten
 years that people in Brazil were still using it a lot.
 
 And so it was
-a, it was an interesting experience for me, but **the most important,
+a, it was an interesting experience for me, but the most important,
 from my point of view, was I had $5,500, which was enough to get
-married**. And so in the summer of ‘61 Jill and I got married, and it
+married. And so in the summer of ‘61 Jill and I got married, and it
 paid for our honeymoon trip in Europe, which was our first time seeing
 the world.
 
 [28 - Working for the Burroughs Corporation](http://webofstories.com/play/17087)
 --------------------------------------------------------------------------------
 
-I got to Caltech as a student, a **grad student in mathematics**. Again I
+I got to Caltech as a student, a grad student in mathematics. Again I
 was scared stiff that I wouldn’t be able to succeed, because the
-students at Caltech were really, really selective they, **at Caltech,
+students at Caltech were really, really selective they, at Caltech,
 the undergrads, one out of three of them was first in their high
-school** class, and the other two out of three were very near the
+school class, and the other two out of three were very near the
 top. And so it was awesome, the people there, but they only admitted
 200 students a year in Caltech as undergrads. Graduate students, we
 had 12 of us in the math program, and they were excellent as well. It
@@ -1715,7 +1715,7 @@ at the time.
 So I, so I knew I had my work cut out for me, and I,
 again I went back into a mode where I did more than I needed to for my
 classes, but I also liked the people at Burroughs, so I took, and so I
-**took a consulting job at Burroughs**, working with their software group,
+took a consulting job at Burroughs, working with their software group,
 which I had great admiration for. Their software group had, for
 another computer, the Burroughs 220, had written one of the best
 pieces of software ever, an ALGOL compiler for the 220, and I got to
@@ -1726,9 +1726,9 @@ enjoyed joining their group, but I wasn’t, but according to the rules,
 I couldn’t have my, I couldn’t have a fellowship from the National
 Science Foundation or from the Woodrow Wilson Foundation; I couldn’t
 have those, that financial support and not be a full time
-student. Having, you know, it was **a no-no to also be a consultant,
-also be working, working outside Caltech**. Wow, your education couldn’t
-possibly be any good that way. So **I renounced those fellowships**, and I
+student. Having, you know, it was a no-no to also be a consultant,
+also be working, working outside Caltech. Wow, your education couldn’t
+possibly be any good that way. So I renounced those fellowships, and I
 did become a consultant, and I would spend time over at Burroughs
 several days a week, and for the next six or seven, seven or eight
 years, all the while I was down there in Pasadena.
@@ -1736,29 +1736,29 @@ years, all the while I was down there in Pasadena.
 The people at
 Burroughs were splendid to work with. I was in a group called Product
 Planning, which designed, had designed, or was, early on was in the
-process of **designing a completely new kind of computer**, one that would
+process of designing a completely new kind of computer, one that would
 do in hardware what, what we had been doing in software before. That
 kind of computer is, is not in, it’s been realized later that it
 doesn’t really provide a real good cost benefit trade off, it’s better
 to build cheap hardware and good, and then make software than to build
 expensive hardware, but at that time it was you know, it was not at
 all clear what the future would say about that issue. And so we had
-**the most complicated machine ever built, the Burroughs 5000**, then the
+the most complicated machine ever built, the Burroughs 5000, then the
 5500, 6500, that came out later.
 
 And the Product Planning group
 where I was consulting was the group in charge of specifying the
 machine. Another group, the Engineers, had to build the machine. It
 was completely different than any machine done before. And my role as
-a consultant was to **talk to the engineers who were building it and
+a consultant was to talk to the engineers who were building it and
 make sure they understood what the designers on the other floor
-knew**.
+knew.
 
 And so I got, really, to talk to almost everybody in the
 company, and my role was more of a communications role than anything
 else. These people, if they went through channels, they would have to
-go several levels up the hierarchy, and down again, and **they couldn’t
-talk to each other, but they could talk to me**, and then I could talk
+go several levels up the hierarchy, and down again, and they couldn’t
+talk to each other, but they could talk to me, and then I could talk
 to the other people in the other group, and so I, and so I could
 provide a valuable service to Burroughs, and they, they would pay me,
 I think, you know, I think I was getting $5 an hour, or $7 an hour;
@@ -1770,17 +1770,17 @@ And one of my roles was to check out the
 designs of the engineers, and see if there were any mistakes in them
 before they would build the machine. They would first take their
 designs and put them through a computer program to see if they would
-simulate, and apparently work correctly, but then, **after they thought
+simulate, and apparently work correctly, but then, after they thought
 it was working correctly, then they would show it to me, and I still
-found several hundred errors in the design** that I was able to catch,
+found several hundred errors in the design that I was able to catch,
 well you know, very weird cases that could come up, but hadn’t arisen
 during the simulations, so that the expensive corrections to the
 hardware weren’t necessary.
 
 You know, really my role in that time,
-well, communication and trying to find errors, you know, **if I could
+well, communication and trying to find errors, you know, if I could
 look at somebody else’s program, or design, and couldn’t find any
-mistakes in it, it was a rare event**, and I would feel bad. I mean
+mistakes in it, it was a rare event, and I would feel bad. I mean
 finding errors was my, was a big treat for me in those days, so far as
 my work in computers was concerned.
 
@@ -1788,8 +1788,8 @@ my work in computers was concerned.
 ----------------------------------------------------------------
 
 Burroughs was a company established in the 19th century, and was quite
-pre-eminent in the banking industry, **almost everybody used equipment
-from Burroughs to do its accounting**, and in the early days of
+pre-eminent in the banking industry, almost everybody used equipment
+from Burroughs to do its accounting, and in the early days of
 computing, Burroughs acquired the Electric Data Corporation, in
 Pasadena, and they were one of the many companies putting out
 computers. And, and as I say, not only that, they had very innovative
@@ -1797,7 +1797,7 @@ computers, and I liked the spirit of all the employees working there
 as well.
 
 The — later on, they were acquired by Sperry Rand, this was in
-the ’70s, I think, and **became Unisys**, combined with Sperry Rand. So
+the ’70s, I think, and became Unisys, combined with Sperry Rand. So
 half of Unisys was from the Burroughs Corporation, and half of it was
 the Sperry, which, the Rand, the Remington Rand, the people who had
 built the UNIVAC computer. That happened after I was no longer in
@@ -1806,15 +1806,15 @@ base, but then, in more recent years, the, you know, other companies
 survived, and there were many, many changes in the computer industry,
 to that time.
 
-So Burroughs was, you know, **Edsger Dijkstra was also a
-consultant to Burroughs during the 60s**, and he would come out to
+So Burroughs was, you know, Edsger Dijkstra was also a
+consultant to Burroughs during the 60s, and he would come out to
 Pasadena, visit periodically, and it was a great company to work for
 in those days, I think.
 
 [30 - My interest in context-free languages](http://webofstories.com/play/17089)
 --------------------------------------------------------------------------------
 
-I had **no idea that that work connected with mathematics** in any way
+I had no idea that that work connected with mathematics in any way
 whatsoever. I wear one cap in the computer — when I’m consulting for
 Burroughs, and I wear another cap when I’m at Caltech as a student
 learning mathematics. Mathematics was something where we proved things
@@ -1830,8 +1830,8 @@ I was in Seventh Grade my friends and I loved grammar, and we learned
 about English grammar. Well, now I was seeing the same kind of things,
 they were not nouns and verbs, but similar things in the algebraic
 languages like ALGOL, that I was supposed to write software for, and a
-theory had been developing called the **theory of context-free
-languages**, that was appealing to me, because here was something that I
+theory had been developing called the theory of context-free
+languages, that was appealing to me, because here was something that I
 could be, I could use my mathematical cap and my and my computer cap
 at sort of the same time. You know, my computer science intuition, and
 my love of grammar and language was; would suggested interesting
@@ -1840,13 +1840,13 @@ problems. So I, that was one thing where the two worlds, the computing
 and the math world, were coming together for me.
 
 And I have to say
-that **on my honeymoon**, when Jill and I sailed to Europe, I brought
+that on my honeymoon, when Jill and I sailed to Europe, I brought
 along with me a book by Noam Chomsky, which was one of the pioneering
 things about context-free languages, and I read that in odd moments,
 you know, when Jill was seasick or something, and I would try to solve
 the problem about context-free languages. The problem I tried to solve
-was, is there a way to test **whether a context-free grammar is
-ambiguous or not**? Ambiguous means that you could write a sentence that
+was, is there a way to test whether a context-free grammar is
+ambiguous or not? Ambiguous means that you could write a sentence that
 had two different ways to be understood. And I thought I might have a
 way to resolve this, and I reduced it to several other problems
 
@@ -1856,9 +1856,9 @@ I learned several years later that in fact three Israeli
 mathematicians had already proved that the problem had no solution;
 that there was no way to solve this ambiguity problem, in finite
 time. But I didn’t know that during my honeymoon, and I just wanted to
-mention that, **although I do love Jill, there were also other things
+mention that, although I do love Jill, there were also other things
 that I love too, and one of them was the mystery of context-free
-languages**. Another time I guess I should, I have to mention is the
+languages. Another time I guess I should, I have to mention is the
 time when I forgot about one of our dates, and, when I was playing
 with the computer at Case Tech, but we won’t talk about that. But she
 doesn’t let me live that one down.
@@ -1869,8 +1869,8 @@ doesn’t let me live that one down.
 Here I am then, earning money as a computer person, and enjoying, and
 then studying mathematics so that I can be a math teacher as a
 career. And the idea that there could be any connection with this, or
-there could be, ever be **an academic field of computer science or
-something, never entered my mind** whatsoever as a possibility. Very few
+there could be, ever be an academic field of computer science or
+something, never entered my mind whatsoever as a possibility. Very few
 people in the world had thought of it at that time either.
 
 Now, at
@@ -1879,36 +1879,36 @@ school for eight years, and you go to high school for four years, then
 you go to college for four years, and then you might want to go to
 graduate school for another three years, and get your, and get a
 PhD. I don’t know who had told me that early on, but somebody had said
-that it takes **three years to get a Ph.D.**. And I had believed that and so
+that it takes three years to get a Ph.D.. And I had believed that and so
 when I got to Caltech in 1960, I’m thinking, oh, okay, in 1963 I’ll
 graduate. And I’ve just sort of set my sights that way. Now if
 somebody had told me it was going to take five years, I’m sure I would
 have graduated in 1965, but I had always been thinking I would
-graduate in 63, so I, so **I just sort of planned ahead**.
+graduate in 63, so I, so I just sort of planned ahead.
 
 It was, it
 didn’t occur to me, until the day of graduation, that none of my other
-colleagues were there. You know, Al Hales was there, but **just two of
-our 12 had done it in three years**, and I think it was partly that,
+colleagues were there. You know, Al Hales was there, but just two of
+our 12 had done it in three years, and I think it was partly that,
 just that we had set ourselves up that way, to do it.
 
 My thesis, I was
-working with **Marshall Hall**, who I hadn’t met before coming to Caltech,
-but I got to enjoy. **His lectures were very disorganized, but he really
-knew the subject**, so he would be teaching us about permutations, what
+working with Marshall Hall, who I hadn’t met before coming to Caltech,
+but I got to enjoy. His lectures were very disorganized, but he really
+knew the subject, so he would be teaching us about permutations, what
 actually I found was that I would take notes of what he said during
 class, and the problem was to figure out a permutation of what he had
 said that made sense. What, how to re-order; you know, I mean every
 important idea had been presented some time during that hour, but they
-didn’t come to him in the right order, just **like now, I’m not thinking
-of everything in the right order**, well he, you know, so his classes
+didn’t come to him in the right order, just like now, I’m not thinking
+of everything in the right order, well he, you know, so his classes
 were like that, but I learned a heck of a lot this way, by trying to
 unscramble the notes of what he said in class, so I learned about the
 things that he was good at.
 
 And I decided that you know, one of the
-unsolved problems that he posed to us, technical term is **symmetric
-block designs with λ=2**. It’s a technical term that
+unsolved problems that he posed to us, technical term is symmetric
+block designs with λ=2. It’s a technical term that
 really means; it’s something like geometry, except instead of having
 two, instead of having one line through every two points, you have two
 lines through every two points. And you know, instead of saying that
@@ -1917,12 +1917,12 @@ two points.
 
 So this is a system called the symmetric block designs
 with λ=2, and at the time I started working on this
-unsolved problem **I was going to try to find infinitely many** such
+unsolved problem I was going to try to find infinitely many such
 designs, such, symmetric designs, and six were known altogether. And
 so I thought, okay, but I had a new way to approach the subject, maybe
 I’d be able to find infinitely many. Well, it, it’s a good thing that
 I didn’t take that as my final project though, because I believe up to
-this day **only one more has ever been found**, so nobody knows that there
+this day only one more has ever been found, so nobody knows that there
 is only finitely many, but it seems to be extremely hard to construct
 these designs.
 
@@ -1931,15 +1931,15 @@ these designs.
 
 Another open problem had been mentioned in one of my classes, having
 to do with projective planes, a finite kind of geometry, and the
-projective planes; one of the things **Marshall Hall** was good at was
-studying **projective planes, and he had developed some of the major
-theories of it during the Second World War**. These have lots of
+projective planes; one of the things Marshall Hall was good at was
+studying projective planes, and he had developed some of the major
+theories of it during the Second World War. These have lots of
 applications in code-breaking as well, and other, and kinds of code
 making from, you know, transmitting reliable codes.
 
 And I took his
 class on projective planes, and one of the things he mentioned is that
-no, that **only one projective plane of order 32 is known**, and only one
+no, that only one projective plane of order 32 is known, and only one
 is known of order 64, and so, for whenever you had a power of two; two
 times two times two times two times two, and you’d find, one of the
 projective plane of that size, basically, that, it was a question
@@ -1947,21 +1947,21 @@ whether it was only; that projective plane was unique, or were there
 other kind of geometries with this size? And I, the first open case
 was of size 32. And I took a look at it, and I received in the mail,
 as a result of a computer program that had been written, by R.J. Walker,
-I think he was in Princeton, and he had found all of the — **he had
-actually found new ones of size 32, by computer**, and he, he had a list
+I think he was in Princeton, and he had found all of the — he had
+actually found new ones of size 32, by computer, and he, he had a list
 on this, of all of this, all of the projective planes of a certain
 kind, which I later called I think a semi-field.
 
 And he had two lists,
 and both of the lists had 16 solutions on it. And the thing was, so
-this gave him **32 different projective planes of a size 32**, 16 of them
+this gave him 32 different projective planes of a size 32, 16 of them
 were of one kind and 16 of them were of another kind, and that’s all
 the computer, his computer found. But one of the 16 in the second list
 was the one that had been known for years and years. So I thought to
 myself, oh, all I have to do is find a pattern, a rule that would take
 every one on the first list, and find its corresponding mate on the
-second list, and **then I will have a rule that I can take on and solve
-the next problem, 64**, the next problem 128, and so on, because my rule
+second list, and then I will have a rule that I can take on and solve
+the next problem, 64, the next problem 128, and so on, because my rule
 that worked in the case of 32 would then be a general rule if I could
 find this pattern.
 
@@ -1972,22 +1972,22 @@ and I said, Mrs. Todd, I think I’m going to have a theorem in two
 hours. I’m going to find a way to match these 16 with these 16. And
 well, I just had a hunch that it was possible, and sure enough, you
 know, staring at it a little bit, a little bit, I found a connection,
-and by noon **I had a theorem that had solved many, many cases of this
-open problem about projective planes**.
+and by noon I had a theorem that had solved many, many cases of this
+open problem about projective planes.
 
 I showed it to Marshall Hall,
-and **he said, well Don, this is your thesis**. Write this up and get out
+and he said, well Don, this is your thesis. Write this up and get out
 of here. You know, you don’t have to wait and do, you know, do this
-other hard problem, just do this for your thesis. So **I felt a little
-guilty of solving my Ph.D. thesis in two hours** and so I had, you know, I
+other hard problem, just do this for your thesis. So I felt a little
+guilty of solving my Ph.D. thesis in two hours and so I had, you know, I
 spent another few months refining the result and adding on some
 related theory.
 
 But basically I could write a thesis of about 70
 pages, and then, and that solved the problem that was considered by
 people in this very small sub group of the world, who were projective
-planologists, the finite projective plane people, that this was **one of
-the problems that they had thought might never be solved**. So I had, so
+planologists, the finite projective plane people, that this was one of
+the problems that they had thought might never be solved. So I had, so
 that was nice. And it gave me a thesis.
 
 Now, I, in order to graduate,
@@ -1996,7 +1996,7 @@ fill, fulfill too, but one of them, interestingly, had, was that you
 choose some other classic problem of mathematics, and you see, and you
 prepare for a month, read up on it, everything you can, and see if you
 can say something new about the problem, and the problem that I
-studied was what’s called **the Thue-Siegel-Roth Theorem**, in which
+studied was what’s called the Thue-Siegel-Roth Theorem, in which
 Freeman Dyson had made one of the main contributions, and I mention
 that just because I know Freeman Dyson is interviewed in this series
 of People’s Archive, and he’s become a good friend since then, but I
@@ -2007,36 +2007,36 @@ before I did.
 [33 - Teaching a computer course at Caltech and being asked to write a book about compilers](http://webofstories.com/play/17092)
 --------------------------------------------------------------------------------------------------------------------------------
 
-In my third year at Caltech I was also **asked to teach some classes
-about computers**. A group of people said, you know, Caltech doesn’t
+In my third year at Caltech I was also asked to teach some classes
+about computers. A group of people said, you know, Caltech doesn’t
 teach anything about computers, and we know that you’re consulting to
 Burroughs, why don’t you, why don’t you think of giving a course, just
 to, to offer to Caltech? So I had also, then been giving a once only
 course, even before I graduated at Caltech, and they made the very
-unusual **decision to hire me as an Assistant Professor after
-graduation**.
+unusual decision to hire me as an Assistant Professor after
+graduation.
 
-Usually **a university won’t hire its own graduates**, except
+Usually a university won’t hire its own graduates, except
 MIT. But usually, you know, it’s considered bad to have inbreeding,
 because a department can get bogged down in one philosophy, and you
 usually want to bring in new blood. Well, Caltech, I guess, felt that
-**I was sufficiently strange** of blood that they, that it was okay to
+I was sufficiently strange of blood that they, that it was okay to
 hire me too.
 
-Now, meanwhile, in the January of 1962, I’m in **my second
-year of Caltech, and in my first year of marriage**; we got married in
+Now, meanwhile, in the January of 1962, I’m in my second
+year of Caltech, and in my first year of marriage; we got married in
 the summer of ’61, so Jill and I had six months of wedded bliss, we
 started with our honeymoon, and then, and then we had a time before I
-was **approached by Addison-Wesley to write a book about computer
-science**, about computers. And in the January of ‘62, an editor from
+was approached by Addison-Wesley to write a book about computer
+science, about computers. And in the January of ‘62, an editor from
 Addison-Wesley took me out to lunch, and said, Don, we want, we need,
 we would like to invite you to write a book about compilers. 
 
 You know,
 compilers, this is this system, thing that I had done for Burroughs
-the previous year, and I had, I just finished, and you know, **you have
+the previous year, and I had, I just finished, and you know, you have
 been recommended to us as somebody who knows how to write compilers,
-and would you think about writing a book** like that? So I’m one and a
+and would you think about writing a book like that? So I’m one and a
 half years into graduate school at the time, and doing consulting for
 Burroughs, but I, but, boy, I couldn’t get the thought out of my
 mind. Wow, I love writing a book? I just, you know, I’d been working
@@ -2045,42 +2045,42 @@ articles. I enjoyed writing all the time, and I, and here was the
 publisher of my favorite textbooks, Addison-Wesley, was asking me to
 write a book for them.
 
-And so right away I went home and I **jotted out
-the titles of 12 chapters** I thought would be good for a book. And
+And so right away I went home and I jotted out
+the titles of 12 chapters I thought would be good for a book. And
 then, well, our marriage was still happy, but it was different,
-because I started **concentrating on this book, for the next 40 years**. 
+because I started concentrating on this book, for the next 40 years. 
 
 I
 thought I could finish the book, you know, rather quickly. I have
 letters that I wrote in 1964 or five. No, ’64, I wrote a letter to
 somebody saying, “I’m sorry I can’t visit Stanford University this year
-because I have to **finish my book before my son is born,” you know. And
-now he’s 40 years old**, and I still haven’t finished the book, but
+because I have to finish my book before my son is born,” you know. And
+now he’s 40 years old, and I still haven’t finished the book, but
 that’s just; we’ll get to that. But I thought I, I thought I would
 finish; I had no idea how long it would take me to, you know, to write
 this book.
 
 They asked me to write a book about compilers, but I, I
-thought, well, wait a minute, **there’s a lot of other stuff goes on in
+thought, well, wait a minute, there’s a lot of other stuff goes on in
 computer programming that you also need to know before you finish your
-compiler**, so I said, would you mind if I put in chapters about these
+compiler, so I said, would you mind if I put in chapters about these
 other aspects of computer programming? And they said, no, go right
-ahead. Okay, so this book, we, I, **we decided to call it “The Art of
-Computer Programming”**. They liked that title.
+ahead. Okay, so this book, we, I, we decided to call it “The Art of
+Computer Programming”. They liked that title.
 
 My original motivation
 for writing it was not only that I liked the idea of writing books,
-but because **I could see a big need for such a book**. There was nothing
+but because I could see a big need for such a book. There was nothing
 like it.
 
 In fact, although I had written several compilers, and I knew
-a lot about compilers, **I hadn’t invented any of the ideas in those
-compilers**. I had just applied ideas that I had learned from other
+a lot about compilers, I hadn’t invented any of the ideas in those
+compilers. I had just applied ideas that I had learned from other
 people. And so everybody else I could think of, who was able to write
 a book about compilers, I also, as far as I could see, they were
 pretty biased and slanted. They would mention their own method, and
-they wouldn’t mention anybody else’s method. But **I was the only person
-I knew who didn’t have this axe to grind**. I had never invented
+they wouldn’t mention anybody else’s method. But I was the only person
+I knew who didn’t have this axe to grind. I had never invented
 anything myself, I was just a writer, I could present everybody else's
 idea, in a way that was consistent, and wouldn't distort the picture
 the way they would, if they wrote it. You know, anyway, this is in the
@@ -2092,10 +2092,10 @@ would.
 
 And of course as soon as I got started writing it, I naturally
 would discover a few things too, and I had my, and I developed my own
-biases and distortions. But, and **so I didn't succeed in my goal, of
-making the unbiased presentation**, but I have to say that quite
-frankly, I did believe originally that **that was my main reason for
-writing the book**, it was needed, such a book was necessary, and I
+biases and distortions. But, and so I didn't succeed in my goal, of
+making the unbiased presentation, but I have to say that quite
+frankly, I did believe originally that that was my main reason for
+writing the book, it was needed, such a book was necessary, and I
 couldn't think of anybody else who would be able to present the story
 fairly. Not that I did it in fact fairly myself later, but at least I
 couldn't think of anybody else who would do it.
@@ -2103,9 +2103,9 @@ couldn't think of anybody else who would do it.
 And I began to, so I
 began writing drafts of the material, starting then in the summer of
 ’62. I had classes of, during the beginning of ’62, but I started
-drafting material for “The Art of Computer Programming”, and **the
+drafting material for “The Art of Computer Programming”, and the
 course that I wound up teaching at Caltech, during my third year of
-graduate school, was based on these notes** that I had made, preliminary
+graduate school, was based on these notes that I had made, preliminary
 to “The Art of Computer Programming”.
 
 [34 - 1967: a turbulent year (Part 1)](http://webofstories.com/play/17093)
