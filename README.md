@@ -20,7 +20,7 @@ organized into headings, subheadings, and the like. The boldface is my
 attempt to pull out the main topics of each paragraph so that it's
 possible to skim through the document to find a particular topic.
 
-[1 - Family history](http://webofstories.com/play/17060)
+[Family history](http://webofstories.com/play/17060)
 --------------------------------------------------------
 
 If you want to go way back, if you go like, 16 of my
@@ -54,7 +54,7 @@ their, you know, anybody else in the family, because it was a job that
 opened up, so he went and took this job at a school that needed a
 teacher.
 
-[2 - Learning to read and school](http://webofstories.com/play/17061)
+[Learning to read and school](http://webofstories.com/play/17061)
 ---------------------------------------------------------------------
 
 It all started in Milwaukee, Wisconsin, 1938, I was born. I don't
@@ -142,7 +142,7 @@ early on, I had a lot of training in things that had to do with
 languages, and then a chance to do some creative work with things like
 these skits.
 
-[3 - My mother](http://webofstories.com/play/17062)
+[My mother](http://webofstories.com/play/17062)
 ---------------------------------------------------
 
 I should say something about my mom, who was also very important in my
@@ -175,7 +175,7 @@ that time still, it was, I think something like 7% or 8% of my
 classmates went on to college, and that was considered pretty good at
 that time.)
 
-[4 - My parents' finances](http://webofstories.com/play/17063)
+[My parents' finances](http://webofstories.com/play/17063)
 --------------------------------------------------------------
 
 I guess I can say a little bit more about my parents' finances. Of
@@ -256,7 +256,7 @@ this idea of personal responsibility was something I always took for
 granted, because I got it from my parents. So it never occurred to me
 that there was any other way to live.
 
-[5 - Interests in high school (Part 1)](http://webofstories.com/play/17064)
+[Interests in high school (Part 1)](http://webofstories.com/play/17064)
 ---------------------------------------------------------------------------
 
 Back in high school, my main activities in high school, at, it was
@@ -305,7 +305,7 @@ and I've never seen it again.
 So I have no idea whether it's any good,
 or whatever, but there it was.
 
-[6 - Interests in high school (Part 2)](http://webofstories.com/play/17065)
+[Interests in high school (Part 2)](http://webofstories.com/play/17065)
 ---------------------------------------------------------------------------
 
 I also started the school newspaper. I was Editor of the paper, and
@@ -358,7 +358,7 @@ they said that my average which was more than 97.5 was a record for
 the school that hadn't been achieved before, so I was pretty much a
 nerd of nerds at that time.
 
-[7 - My sense of humor](http://webofstories.com/play/17066)
+[My sense of humor](http://webofstories.com/play/17066)
 -----------------------------------------------------------
 
 Rather than sceptical, cynical, I would prefer satirical or something.
@@ -385,7 +385,7 @@ for Bo Derek is where I used the number ten, so all the way through
 I've had this silly streak of some sort that means I don't take
 everything too seriously.
 
-[8 - The Potrzebie System of Weights and Meausures and the Alfred E. Neuman crossword](http://webofstories.com/play/17067)
+[The Potrzebie System of Weights and Meausures and the Alfred E. Neuman crossword](http://webofstories.com/play/17067)
 --------------------------------------------------------------------------------------------------------------------------
 
 While I'm on the subject of *Mad Magazine*, I might as well mention
@@ -437,7 +437,7 @@ made the right decision in rejecting it.
 So yeah, I like to see things
 sort of out of the box as well as in the box.
 
-[9 - Feeling the need to prove myself](http://webofstories.com/play/17068)
+[Feeling the need to prove myself](http://webofstories.com/play/17068)
 --------------------------------------------------------------------------
 
 My parents were asked whether or not they should advance me a grade,
@@ -547,7 +547,7 @@ scared, in a way that I, you know, that made me start strong, and then
 I could coast afterwards, rather than always climbing and being on a
 lower part of the learning curve.
 
-[10 - Why I chose to go to Case Institute of Technology](http://webofstories.com/play/17069)
+[Why I chose to go to Case Institute of Technology](http://webofstories.com/play/17069)
 --------------------------------------------------------------------------------------------
 
 In high school, as I said, mathematics was just confusing to me. When
@@ -584,7 +584,7 @@ given, were taught each of our classes by the heads of departments. So
 I really had the, Case's best, you know, physics teacher, chemistry
 teacher, math teacher and English teacher.
 
-[11 - University life: my basketball management system](http://webofstories.com/play/17070)
+[University life: my basketball management system](http://webofstories.com/play/17070)
 -------------------------------------------------------------------------------------------
 
 I believe it was the first year they had tried this, and I'm not sure
@@ -688,7 +688,7 @@ through these scenes six times everything, you know, punch those cards
 over and over again. So I can see, how could Audrey Hepburn possibly
 look so beautiful after the sixth take, you know?
 
-[12 - University life: the fraternity system](http://webofstories.com/play/17071)
+[University life: the fraternity system](http://webofstories.com/play/17071)
 ---------------------------------------------------------------------------------
 
 At Case, as I said, I pledged a fraternity. That was one of the things
@@ -729,7 +729,7 @@ that I had come through an ordeal, which was something; it's a
 question in my mind, how to really give that education to somebody in
 a way that is legal, would be legal. Now we'd have people suing.
 
-[13 - Meeting my wife Jill](http://webofstories.com/play/17072)
+[Meeting my wife Jill](http://webofstories.com/play/17072)
 ---------------------------------------------------------------
 
 At my fraternity, my best friend, who was also in the Honor Section at
@@ -783,7 +783,7 @@ am I going to do it you know.
 And so I did, but I never realized how
 good it could be until I kissed Jill, when I was a sophomore.
 
-[14 - Bible study at university and a time of personal challenge](http://webofstories.com/play/17073)
+[Bible study at university and a time of personal challenge](http://webofstories.com/play/17073)
 -----------------------------------------------------------------------------------------------------
 
 I'm not a real involved with the groovy set, I guess, throughout all
@@ -826,7 +826,7 @@ So I, as they say, the growing up
 in a religious way took place during this time, when I'm meeting my
 future wife.
 
-[15 - Extracurricular activities at Case](http://webofstories.com/play/17074)
+[Extracurricular activities at Case](http://webofstories.com/play/17074)
 ------------------------------------------------------------------------------
 
 I was on lots of sports teams, the cross country team, baseball. We
@@ -891,7 +891,7 @@ popular in the Greeting Card Industry at the time. And that I still
 have the score for, so maybe I'll, maybe I'll put some of the music
 for that in my book on fun and games.
 
-[16 - Taking graduate classes at Case](http://webofstories.com/play/17075)
+[Taking graduate classes at Case](http://webofstories.com/play/17075)
 --------------------------------------------------------------------------
 
 At Case I put a lot of time into stuff out of class, but in class, I
@@ -930,7 +930,7 @@ had taken these graduate courses because they were easier. I didn't, I
 don't know if I've ever told anybody else this before today, but that
 was one of the reasons I could do so many other things.
 
-[17 - Physics, welding, astronomy and mathematics](http://webofstories.com/play/17076)
+[Physics, welding, astronomy and mathematics](http://webofstories.com/play/17076)
 --------------------------------------------------------------------------------------
 
 I started in physics, and I continued in physics; as I said, I liked
@@ -998,7 +998,7 @@ appealing, because it didn't have certainty, I mean I would feel
 unhappy of the life where I had nothing certain, and life where I had
 everything certain. In either extreme, life, it's hard for me.
 
-[18 - My math teacher at Case and a difficult problem](http://webofstories.com/play/17077)
+[My math teacher at Case and a difficult problem](http://webofstories.com/play/17077)
 -------------------------------------------------------------------------------------------
 
 I gravitated toward mathematics. And there was another reason. Our
@@ -1081,7 +1081,7 @@ and that, this appealed to me. Still, I didn't study mathematics that
 much, because I already had the A, and an A was what I was looking for
 in my college grades.
 
-[19 - My interest in graphs and my first experience of a computer](http://webofstories.com/play/17078)
+[My interest in graphs and my first experience of a computer](http://webofstories.com/play/17078)
 ------------------------------------------------------------------------------------------------------
 
 How did I get into computers? I had a scholarship to Case, but it was,
@@ -1155,7 +1155,7 @@ now I could actually punch a card that would make a computer
 program. And I, and so I began to learn something about the inside of
 this machine.
 
-[20 - Learning how to program on the IBM 650 (Part 1)](http://webofstories.com/play/17079)
+[Learning how to program on the IBM 650 (Part 1)](http://webofstories.com/play/17079)
 ------------------------------------------------------------------------------------------
 
 I read the manuals that came from IBM, and it had; the manuals had
@@ -1209,7 +1209,7 @@ can go wrong when you? Well, anyway, I did, I didn't really know that
 much about programming, at the time, but I learned it a heck of a lot
 by this exercise of trying to find prime factors of a number.
 
-[21 - Learning how to program on the IBM 650 (Part 2)](http://webofstories.com/play/17080)
+[Learning how to program on the IBM 650 (Part 2)](http://webofstories.com/play/17080)
 ------------------------------------------------------------------------------------------
 
 So I learned certain things like, what's; this was a decimal computer,
@@ -1275,7 +1275,7 @@ we're freshmen? That's okay. And I think Case and Dartmouth were the
 only two universities that were so liberal for allowing undergraduates
 to play with the machines in those days.)
 
-[22 - Writing a tic-tac-toe program](http://webofstories.com/play/17081)
+[Writing a tic-tac-toe program](http://webofstories.com/play/17081)
 ------------------------------------------------------------------------
 
 So I got my summer job at, in the computing center, so I didn't come
@@ -1348,7 +1348,7 @@ that they finally wound up doing; they played safe moves instead of
 brilliant moves, but it was anyway, a good learning experience for me,
 writing this tic-tac-toe program.
 
-[23 - Learning about the Symbolic Optimum Assembly Program and the Internal Translator (Part 1)](http://webofstories.com/play/17082)
+[Learning about the Symbolic Optimum Assembly Program and the Internal Translator (Part 1)](http://webofstories.com/play/17082)
 ---------------------------------------------------------------------------------------------------------------------------------
 
 My family went to a summer camp in, on the shore of Lake Erie for a
@@ -1421,7 +1421,7 @@ the program that they had used, to write this IT, translator, and I
 had a copy of the SOAP program, the Symbolic Assembly, the Symbolic
 Optimum Assembly Program.)
 
-[24 - Learning about the Symbolic Optimum Assembly Program and the Internal Translator (Part 2)](http://webofstories.com/play/17083)
+[Learning about the Symbolic Optimum Assembly Program and the Internal Translator (Part 2)](http://webofstories.com/play/17083)
 ---------------------------------------------------------------------------------------------------------------------------------
 
 I brought this to the summer place, and I spent nights looking at it
@@ -1503,7 +1503,7 @@ just a journalist, and I was treating the story as that. So we set the
 story right when the article was published as part of my collected
 works a couple of years ago.
 
-[25 - Adding more features to RUNCIBLE](http://webofstories.com/play/17084)
+[Adding more features to RUNCIBLE](http://webofstories.com/play/17084)
 ---------------------------------------------------------------------------
 
 In those days, computing was so different from what it is now, not
@@ -1565,7 +1565,7 @@ software, but it was the way that, the only way we knew how to do at
 the time, and it was, and people couldn't believe that we were able to
 do with such a small computer, to do as many things as it did.
 
-[26 - Wanting to be a teacher and why I chose to go to Caltech](http://webofstories.com/play/17085)
+[Wanting to be a teacher and why I chose to go to Caltech](http://webofstories.com/play/17085)
 ---------------------------------------------------------------------------------------------------
 
 I never thought of that as a career. That was my summer job at Case,
@@ -1625,7 +1625,7 @@ But he recommended Marshall Hall, who was one of the leading
 mathematicians in the combinatorial mathematics area, and so I liked
 the idea of going to Caltech.
 
-[27 - Writing a compiler for the Burroughs Corporation](http://webofstories.com/play/17086)
+[Writing a compiler for the Burroughs Corporation](http://webofstories.com/play/17086)
 -------------------------------------------------------------------------------------------
 
 During the summer, between Case in Cleveland and Caltech in Pasadena,
@@ -1698,7 +1698,7 @@ married. And so in the summer of ‘61 Jill and I got married, and it
 paid for our honeymoon trip in Europe, which was our first time seeing
 the world.
 
-[28 - Working for the Burroughs Corporation](http://webofstories.com/play/17087)
+[Working for the Burroughs Corporation](http://webofstories.com/play/17087)
 --------------------------------------------------------------------------------
 
 I got to Caltech as a student, a grad student in mathematics. Again I
@@ -1784,7 +1784,7 @@ mistakes in it, it was a rare event, and I would feel bad. I mean
 finding errors was my, was a big treat for me in those days, so far as
 my work in computers was concerned.
 
-[29 - Burroughs Corporation](http://webofstories.com/play/17088)
+[Burroughs Corporation](http://webofstories.com/play/17088)
 ----------------------------------------------------------------
 
 Burroughs was a company established in the 19th century, and was quite
@@ -1811,7 +1811,7 @@ consultant to Burroughs during the 60s, and he would come out to
 Pasadena, visit periodically, and it was a great company to work for
 in those days, I think.
 
-[30 - My interest in context-free languages](http://webofstories.com/play/17089)
+[My interest in context-free languages](http://webofstories.com/play/17089)
 --------------------------------------------------------------------------------
 
 I had no idea that that work connected with mathematics in any way
@@ -1863,7 +1863,7 @@ time when I forgot about one of our dates, and, when I was playing
 with the computer at Case Tech, but we won't talk about that. But she
 doesn't let me live that one down.
 
-[31 - Getting my PhD and the problem of symmetric block designs with lambda equals two](http://webofstories.com/play/17090)
+[Getting my PhD and the problem of symmetric block designs with lambda equals two](http://webofstories.com/play/17090)
 ---------------------------------------------------------------------------------------------------------------------------
 
 Here I am then, earning money as a computer person, and enjoying, and
@@ -1926,7 +1926,7 @@ this day only one more has ever been found, so nobody knows that there
 is only finitely many, but it seems to be extremely hard to construct
 these designs.
 
-[32 - Finding a solution to an open problem about projective planes](http://webofstories.com/play/17091)
+[Finding a solution to an open problem about projective planes](http://webofstories.com/play/17091)
 --------------------------------------------------------------------------------------------------------
 
 Another open problem had been mentioned in one of my classes, having
@@ -2004,7 +2004,7 @@ read his papers on the subject, when I was a grad student preparing
 for; I think he had recently, I think he graduated about ten years
 before I did.
 
-[33 - Teaching a computer course at Caltech and being asked to write a book about compilers](http://webofstories.com/play/17092)
+[Teaching a computer course at Caltech and being asked to write a book about compilers](http://webofstories.com/play/17092)
 --------------------------------------------------------------------------------------------------------------------------------
 
 In my third year at Caltech I was also asked to teach some classes
@@ -2108,7 +2108,7 @@ course that I wound up teaching at Caltech, during my third year of
 graduate school, was based on these notes that I had made, preliminary
 to “The Art of Computer Programming”.
 
-[34 - 1967: a turbulent year (Part 1)](http://webofstories.com/play/17093)
+[1967: a turbulent year (Part 1)](http://webofstories.com/play/17093)
 --------------------------------------------------------------------------
 
 My son was a year, my daughter was born in December of 66, and my son
@@ -2163,7 +2163,7 @@ meaning; you could start at the top, and sort of propagate that
 downwards, into the meaning of the, into how the context affects the
 words of the sentence.)
 
-[35 - 1967: a turbulent year (Part 2)](http://webofstories.com/play/17094)
+[1967: a turbulent year (Part 2)](http://webofstories.com/play/17094)
 --------------------------------------------------------------------------
 
 And so there was this combination between the inherited part of the
@@ -2215,7 +2215,7 @@ stay up until I finished it. You know, I was used to all-nighters from
 high school, well I started to, you know, to work every day until I
 had finished what I had set myself to do that day.)
 
-[36 - 1967: a turbulent year (Part 3)](http://webofstories.com/play/17095)
+[1967: a turbulent year (Part 3)](http://webofstories.com/play/17095)
 --------------------------------------------------------------------------
 
 So not too surprisingly, I suddenly came down with a bleeding ulcer,
@@ -2289,7 +2289,7 @@ was in some garret in terrible circumstances. Why is it that the year
 time was right for them. You know, you can't go back and change
 history.)
 
-[37 - A new field: analysis of algorithms](http://webofstories.com/play/17096)
+[A new field: analysis of algorithms](http://webofstories.com/play/17096)
 ------------------------------------------------------------------------------
 
 In the Fall of '67 there was a conference in Santa Barbara of
@@ -2362,7 +2362,7 @@ does it really mean, I would just say, well, it means whatever I'm
 interested in, you know, so I could change it for the first few years
 to, to suit myself.)
 
-[38 - The Art of Computer Programming: underestimating the size of the book](http://webofstories.com/play/17097)
+[The Art of Computer Programming: underestimating the size of the book](http://webofstories.com/play/17097)
 ----------------------------------------------------------------------------------------------------------------
 
 I had the Table of Contents sketched out, the 12 chapters, from the
@@ -2439,7 +2439,7 @@ volumes about the history of the egg, or something like this, you
 know, and it just lays a big egg. And so how are they going to get
 around this problem?)
 
-[39 - Deciding what to do with the book and the success of the first edition](http://webofstories.com/play/17098)
+[Deciding what to do with the book and the success of the first edition](http://webofstories.com/play/17098)
 -----------------------------------------------------------------------------------------------------------------
 
 I fly to Massachusetts, and we have discussions about what are we
@@ -2496,7 +2496,7 @@ would, I would certainly have not said that I would go ahead with
 this. I thought that I was going to finish it before my son was born
 in 1965.)
 
-[40 - Writing fiction: Surreal Numbers (Part 1)](http://webofstories.com/play/17099)
+[Writing fiction: Surreal Numbers (Part 1)](http://webofstories.com/play/17099)
 ------------------------------------------------------------------------------------
 
 This is, is a unique event in my life. It took place in early '70s. I
@@ -2541,7 +2541,7 @@ sabbatical, we're in Norway, why not actually take your week, and go
 do this project, you know, concentrate on that, and then, you know,
 then you'll be happy, and we'll live happily ever after.)
 
-[41 - Writing fiction: Surreal Numbers (Part 2)](http://webofstories.com/play/17100)
+[Writing fiction: Surreal Numbers (Part 2)](http://webofstories.com/play/17100)
 ------------------------------------------------------------------------------------
 
 So we made the plans. I decided I would rent a hotel room for a week
@@ -2610,7 +2610,7 @@ couldn't turn the light out because I had to write; I knew what the
 next day's first few sentences would be, before I could go to sleep. I
 was really into this book at the time, as you can imagine.)
 
-[42 - Writing fiction: Surreal Numbers (Part 3)](http://webofstories.com/play/17101)
+[Writing fiction: Surreal Numbers (Part 3)](http://webofstories.com/play/17101)
 ------------------------------------------------------------------------------------
 
 I predicted that it would take me a week to do this book, well, after
@@ -2694,7 +2694,7 @@ wake up in the middle of the night some time with, you know, but I
 think, I've always thought of it as sort of a once in a lifetime
 thing, and as I say, some people say it's my great mistake too.)
 
-[43 - The emergence of computer science as an academic subject (Part 1)](http://webofstories.com/play/17102)
+[The emergence of computer science as an academic subject (Part 1)](http://webofstories.com/play/17102)
 ------------------------------------------------------------------------------------------------------------
 
 When I was writing the first volume, I was at Caltech, and I was
@@ -2771,7 +2771,7 @@ about not getting tenure, that it interferes with their professional
 development, you know, they're spending more time strategizing about
 how to get tenure than about how to do good science.)
 
-[44 - The emergence of computer science as an academic subject (Part 2)](http://webofstories.com/play/17103)
+[The emergence of computer science as an academic subject (Part 2)](http://webofstories.com/play/17103)
 ------------------------------------------------------------------------------------------------------------
 
 There I was at Caltech, but I knew that sometime, that I had to make a
@@ -2861,7 +2861,7 @@ out just in that week, when they needed, when that helped. So they
 were all smiles, and I got my letter from Stanford saying, yes, you
 can come here.)
 
-[45 - A year doing National Service in Princeton](http://webofstories.com/play/17104)
+[A year doing National Service in Princeton](http://webofstories.com/play/17104)
 -------------------------------------------------------------------------------------
 
 But I didn't come to Stanford immediately. My first year at Stanford
@@ -2929,7 +2929,7 @@ us, so we haven't seen each other for years. But when we were doing
 it, we were really hitting it off well. And so we solved this problem
 about plane partitions during the time I was in Princeton.)
 
-[46 - Moving to Stanford and wondering whether I'd made the right choice](http://webofstories.com/play/17105)
+[Moving to Stanford and wondering whether I'd made the right choice](http://webofstories.com/play/17105)
 -------------------------------------------------------------------------------------------------------------
 
 People would ask me; I'm in Princeton, and people would say, well Don,
@@ -2966,7 +2966,7 @@ the late part of 1969, although officially I started in 1968, and I
 think California made me pay taxes for that year, even though I was in
 New Jersey.)
 
-[47 - Designing the house in Stanford](http://webofstories.com/play/17106)
+[Designing the house in Stanford](http://webofstories.com/play/17106)
 --------------------------------------------------------------------------
 
 While we were in Princeton, every Sunday night, Jill and I would talk
@@ -3055,7 +3055,7 @@ for every copy that people bought, and, you know, that book has been
 amazing. It still sells more than ten copies a day, every day of the
 year.)
 
-[48 - Volume Three of The Art of Computer Programming](http://webofstories.com/play/17107)
+[Volume Three of The Art of Computer Programming](http://webofstories.com/play/17107)
 ------------------------------------------------------------------------------------------
 
 Volume Three is this, is this book about, about sorting and searching,
@@ -3089,7 +3089,7 @@ reading and taking care of my kids the rest of the time. So, finally
 then Volume Three came out and it was, it was, it added a new
 dimension to this whole idea of analysis of algorithms, because when
 you start talking about the, about the topics that are in Volume
-Three, it turned out that, that there were many - even though the,
+Three, it turned out that, that there were many even though the,
 it's talking about particular things, sorting, searching - the lessons
 that you're learning apply to many, many other things, and so, and so
 that was why Volume Three was, was especially important for me, that
@@ -3099,7 +3099,7 @@ unified story about it, but also, but from teaching general principles
 while being able to illustrate them around the special theme of
 sorting and searching.)
 
-[49 - Working on Volume Four of The Art of Computer Programming](http://webofstories.com/play/17108)
+[Working on Volume Four of The Art of Computer Programming](http://webofstories.com/play/17108)
 ----------------------------------------------------------------------------------------------------
 
 Then I come back home and I'm thinking, okay, I'm ready, I'm going to
@@ -3132,7 +3132,7 @@ extensions to the system, and then as new material came in I started
 throwing it into a pile, saying I hope to have time to read this some
 day. So this field is growing very fast.)
 
-[50 - Poor quality typesetting on the second edition of my book](http://webofstories.com/play/17109)
+[Poor quality typesetting on the second edition of my book](http://webofstories.com/play/17109)
 ----------------------------------------------------------------------------------------------------
 
 The publishers of my book are happy with the sales and so on. They
@@ -3206,7 +3206,7 @@ typeset the book by Pat Winston, and they sent galley proofs for my
 committee to look at, and I looked at this and this was produced by a
 computer and it looked gorgeous.)
 
-[51 - Deciding to make my own typesetting program](http://webofstories.com/play/17110)
+[Deciding to make my own typesetting program](http://webofstories.com/play/17110)
 --------------------------------------------------------------------------------------
 
 I was about to do my first real sabbatical, by going, and I was
@@ -3237,7 +3237,7 @@ within a week of seeing the proofs of Pat Winston's book in February
 that I, that, I made this decision to stay at Stanford for my
 sabbatical year and work on typography.)
 
-[52 - Working on my typesetting program (Part 1)](http://webofstories.com/play/17111)
+[Working on my typesetting program (Part 1)](http://webofstories.com/play/17111)
 -------------------------------------------------------------------------------------
 
 In the beginning of 1977 I spent the first three months writing part
@@ -3274,7 +3274,7 @@ absolutely no way to get consistency between one day's work and
 another day's work, and consistency is really important for, to get
 good looking letters.)
 
-[53 - Working on my typesetting program (Part 2)](http://webofstories.com/play/17112)
+[Working on my typesetting program (Part 2)](http://webofstories.com/play/17112)
 -------------------------------------------------------------------------------------
 
 I decided to go to Stanford instead and there, at that time, Stanford
@@ -3344,7 +3344,7 @@ was to have Volume Two ready for the printer after my sabbatical
 year. I had one year to write these programs and to, and to capture
 the letter forms and figure out how to typeset them.)
 
-[54 - Research into the history of typography](http://webofstories.com/play/17113)
+[Research into the history of typography](http://webofstories.com/play/17113)
 ----------------------------------------------------------------------------------
 
 I wasn't going to go into this whole project blindly, I wanted to, I
@@ -3369,7 +3369,7 @@ was a two day trip into Gold Country, and we, and I'm staring at all
 of the letters that I see, and saying, how could I capture this in, in
 a computer? This was all taking place in the Spring of 1977.)
 
-[55 - Working on my letters and problems with the S](http://webofstories.com/play/17114)
+[Working on my letters and problems with the S](http://webofstories.com/play/17114)
 ----------------------------------------------------------------------------------------
 
 In June of 1977 my sabbatical begins, classes are over, I'm ready to
@@ -3428,7 +3428,7 @@ and I'm waiting for some new idea to come along, but I never was too
 much interested in dollars really, so I didn't bother to spend too
 many days on that.)
 
-[56 - Figuring out how to typeset and the problem with specifications](http://webofstories.com/play/17115)
+[Figuring out how to typeset and the problem with specifications](http://webofstories.com/play/17115)
 ----------------------------------------------------------------------------------------------------------
 
 So then I had 26 letters, but I had to go on and figure out how to
@@ -3502,7 +3502,7 @@ architecture or structure that I could use when I had to write the
 real program myself later. So then they go back to school, and I come
 back and I start, and I start programming in earnest.)
 
-[57 - Working on the programming for TeX and using a structured program for the first time](http://webofstories.com/play/17116)
+[Working on the programming for TeX and using a structured program for the first time](http://webofstories.com/play/17116)
 -------------------------------------------------------------------------------------------------------------------------------
 
 I started programming in a, in a way that I hadn't done before. During
@@ -3538,7 +3538,7 @@ without the fonts, and I had to write those, I had to do all those
 fonts as well, and that was, you know, three, three months of that
 five was to get the fonts going.)
 
-[58 - Why the designer and the implementor of a program should be the same person](http://webofstories.com/play/17117)
+[Why the designer and the implementor of a program should be the same person](http://webofstories.com/play/17117)
 ----------------------------------------------------------------------------------------------------------------------
 
 Getting the first version of TeX to work, I also had to get the fonts
@@ -3561,7 +3561,7 @@ enough, working on a first generation software like this I think it
 has to be done, the designer and the implementer have to be the same
 person.)
 
-[59 - Converting Volume Two to TeX and how an implementor/designer should be the first user of his programs](http://webofstories.com/play/17118)
+[Converting Volume Two to TeX and how an implementor/designer should be the first user of his programs](http://webofstories.com/play/17118)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 By the time, by Easter time then at near the end of my sabbatical
@@ -3602,7 +3602,7 @@ beginning, were, were certainly important for all future users of the
 system, although I didn't know that there would be any users of the
 system at the time.)
 
-[60 - Writing a user manual for TeX](http://webofstories.com/play/17119)
+[   Writing a user manual for TeX](http://webofstories.com/play/17119)
 ------------------------------------------------------------------------
 
 However, the AI lab is a very open place, there's, there were dozens
@@ -3640,7 +3640,7 @@ that it was stable, that the system was stable and reliable. And so,
 so that was the greatest thing that the system wasn't improving any
 more after, after '78. And I dedicated a book to Marty also.)
 
-[61 - Working with The American Mathematical Society and giving the Gibbs Lecture](http://webofstories.com/play/17120)
+[   Working with The American Mathematical Society and giving the Gibbs Lecture](http://webofstories.com/play/17120)
 ----------------------------------------------------------------------------------------------------------------------
 
 I got my Users' Manual ready and had visitors from the American
@@ -3675,7 +3675,7 @@ audience, so I knew that there was also a hunger out there for, you
 know, for, for people being able to do better typesetting of the
 mathematics.)
 
-[62 - Developing Metafont and TeX](http://webofstories.com/play/17121)
+[   Developing Metafont and TeX](http://webofstories.com/play/17121)
 ----------------------------------------------------------------------
 
 Somebody suggested that I call it Metafont, because it wasn't my, yes,
@@ -3746,7 +3746,7 @@ first it was running at MIT but, but then it was, it was running at
 hundreds of different kinds of computers all over, all over the
 world.)
 
-[63 - Why I chose not to retain any rights to TeX and getting it transcribed from SAIL to Pascal](http://webofstories.com/play/17122)
+[   Why I chose not to retain any rights to TeX and getting it transcribed from SAIL to Pascal](http://webofstories.com/play/17122)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 From the beginning I decided that I wasn't going to retain any rights
@@ -3797,7 +3797,7 @@ computer and that's, that's where we had hundreds of, of, of different
 users and then we started having a, having annual meetings of the
 people who were from around the world to trade information.)
 
-[64 - Tuning up my fonts and getting funding for TeX](http://webofstories.com/play/17123)
+[   Tuning up my fonts and getting funding for TeX](http://webofstories.com/play/17123)
 -----------------------------------------------------------------------------------------
 
 After I had so many users, I realized that the, the original, my
@@ -3872,7 +3872,7 @@ going to take, I finally had Volume Two all ready and printed on the
 Alpha Type and I could send it to Addison-Wesley for them to
 photograph and, and print by offset.)
 
-[65 - The second attempt to print Volume Two of The Art of Computer Programming](http://webofstories.com/play/17124)
+[   The second attempt to print Volume Two of The Art of Computer Programming](http://webofstories.com/play/17124)
 --------------------------------------------------------------------------------------------------------------------
 
 I was expecting to be, the greatest day of my life when the book
@@ -3919,7 +3919,7 @@ doing software, that, that I had to take leave of absence from
 Stanford from my, from my ordinary teaching for several quarters
 during this period.)
 
-[66 - Literate programming](http://webofstories.com/play/17125)
+[   Literate programming](http://webofstories.com/play/17125)
 ---------------------------------------------------------------
 
 Meanwhile I was also coming up with the definitive version of TeX and
@@ -3969,7 +3969,7 @@ which is the descendant of the original web system, and I, it's a
 continual source of pleasure to me, to be able to program in this way
 that I feel is so right.)
 
-[67 - Re writing TeX using the feedback I recieved](http://webofstories.com/play/17126)
+[   Re writing TeX using the feedback I recieved](http://webofstories.com/play/17126)
 ---------------------------------------------------------------------------------------
 
 I rewrote TeX from scratch using literate programming and added, you
@@ -4020,7 +4020,7 @@ Manual, and, and those royalties are shared with the TeX Users Group,
 this international group of users for their projects on promoting the
 use of the language.)
 
-[68 - The importance of stability for TeX](http://webofstories.com/play/17127)
+[   The importance of stability for TeX](http://webofstories.com/play/17127)
 ------------------------------------------------------------------------------
 
 This was, this was kind of the birth of, in some ways, of open source
@@ -4060,7 +4060,7 @@ stability especially urgently because people are depending on it to be
 a fixed point that they can build on, so in that respect, I differ
 from the GNU public license.)
 
-[69 - LaTeX and ConTeXt](http://webofstories.com/play/17128)
+[   LaTeX and ConTeXt](http://webofstories.com/play/17128)
 ------------------------------------------------------------
 
 I developed TeX so that it would support many different formats that
@@ -4085,7 +4085,7 @@ the kitchen and things like this, each one looks different when you
 type the computer file, but TeX is the engine underneath in all
 cases.)
 
-[70 - A summary of the TeX project](http://webofstories.com/play/17129)
+[   A summary of the TeX project](http://webofstories.com/play/17129)
 -----------------------------------------------------------------------
 
 The whole thing started in 1977 when I was working all by myself and
@@ -4127,7 +4127,7 @@ look acceptable, and for this, anyway, let's say I finished that in
 typography project to a conclusion. It was supposed to be a one year
 project for my sabbatical year.)
 
-[71 - A year in Boston](http://webofstories.com/play/17130)
+[   A year in Boston](http://webofstories.com/play/17130)
 -----------------------------------------------------------
 
 Now it was time for my real sabbatical. My real sabbatical year was
@@ -4168,7 +4168,7 @@ fonts, the, the letter forms in my books, and, and so during that year
 I also saw those five books through the press located conveniently
 right there in Boston.)
 
-[72 - Writing a book about the Bible: 3:16 (Part 1)](http://webofstories.com/play/17131)
+[   Writing a book about the Bible: 3:16 (Part 1)](http://webofstories.com/play/17131)
 ----------------------------------------------------------------------------------------
 
 The other thing I started working on at that time was a completely
@@ -4233,7 +4233,7 @@ in the library about the 3:16 verses and explain them to other people,
 that, you know, it was, it was a story that I think other people would
 enjoy learning about as well.)
 
-[73 - Writing a book about the Bible: 3:16 (Part 2)](http://webofstories.com/play/17132)
+[   Writing a book about the Bible: 3:16 (Part 2)](http://webofstories.com/play/17132)
 ----------------------------------------------------------------------------------------
 
 So I wrote to Hermann Zapf, who by then was a good friend, and I said,
@@ -4286,7 +4286,7 @@ here, Stanford Library, Berkeley Graduate Theological Union Library,
 and so it was a weekend project for several more years after that, to
 see what the story of these 3:16s would, would be.)
 
-[74 - Writing a book about the Bible: 3:16 (Part 3)](http://webofstories.com/play/17133)
+[   Writing a book about the Bible: 3:16 (Part 3)](http://webofstories.com/play/17133)
 ----------------------------------------------------------------------------------------
 
 I got the artwork though, from the world's calligraphers. That all
@@ -4351,7 +4351,7 @@ do. But anyway, I, I found this weekend project was kind of an
 enriching thing and I am so glad it turned out so well as it, as well
 as it has.)
 
-[75 - Giving a lecture series on science and religion at MIT](http://webofstories.com/play/17134)
+[   Giving a lecture series on science and religion at MIT](http://webofstories.com/play/17134)
 -------------------------------------------------------------------------------------------------
 
 On the subject of religion I wanted to, I might as well go ahead a
@@ -4424,7 +4424,7 @@ thing but certainly nothing that I wanted to do for the rest of my
 life, I've got to focus on "The Art of Computer Programming", that's
 where I can do something unique.)
 
-[76 - Back to work at Stanford and taking early retirement](http://webofstories.com/play/17135)
+[   Back to work at Stanford and taking early retirement](http://webofstories.com/play/17135)
 -----------------------------------------------------------------------------------------------
 
 At the end of 1986 my sabbatical was over and I was still working on
@@ -4500,7 +4500,7 @@ books right. But I'm not in anybody's inner loop where they're
 depending on me to do something, like I can take a day like today and
 never show up and nobody will be the worse.)
 
-[77 - Taking up swimming to help me cope with stress](http://webofstories.com/play/17136)
+[   Taking up swimming to help me cope with stress](http://webofstories.com/play/17136)
 -----------------------------------------------------------------------------------------
 
 I felt very stressed about this time and I was having all kinds of
@@ -4528,7 +4528,7 @@ me and they still haven't. I mean they did some searches but the
 professors they identified decided to stay where they were and so
 really that part of the bargain Stanford never lived up to.)
 
-[78 - My graduate students and my 64th birthday](http://webofstories.com/play/17137)
+[   My graduate students and my 64th birthday](http://webofstories.com/play/17137)
 ------------------------------------------------------------------------------------
 
 At this time in 1990 my final two or three students finished their PhD
@@ -4567,7 +4567,7 @@ binary number system you write 64 as one followed by six
 zeroes. That's when I got to see lots and lots of my students, so the
 thought came up now.)
 
-[79 - My class on Concrete Mathematics](http://webofstories.com/play/17138)
+[   My class on Concrete Mathematics](http://webofstories.com/play/17138)
 ---------------------------------------------------------------------------
 
 Now I'm retired but then I still can't go full time to work on "Art of
@@ -4609,7 +4609,7 @@ had my teaching assistants take notes of what the students said and
 then they would quickly publish these notes afterwards and as a sort
 of a transcript of the session.)
 
-[80 - Writing a book on my Concrete Mathematics class](http://webofstories.com/play/17139)
+[   Writing a book on my Concrete Mathematics class](http://webofstories.com/play/17139)
 ------------------------------------------------------------------------------------------
 
 So by the time 1990 rolled around I had almost 20 years of these
@@ -4682,7 +4682,7 @@ I think is a personal manifesto of the way to do mathematics, the way
 I think that I love to do, work with the kind of maths that I needed
 to study computer programs at any rate.)
 
-[81 - The Stanford GraphBase and updating Volumes One to Three of The Art of Computer Programming](http://webofstories.com/play/17140)
+[   The Stanford GraphBase and updating Volumes One to Three of The Art of Computer Programming](http://webofstories.com/play/17140)
 --------------------------------------------------------------------------------------------------------------------------------------
 
 I finished the "3:16" book, I finished "Concrete Mathematics", I still
@@ -4750,7 +4750,7 @@ Computer Programming" brought up to date with decent typesetting and
 with all the 20 years of improvements that had been in my files, now
 incorporated into the text.)
 
-[82 - Getting started on Volume Four of The Art of Computer Programming](http://webofstories.com/play/17141)
+[   Getting started on Volume Four of The Art of Computer Programming](http://webofstories.com/play/17141)
 ------------------------------------------------------------------------------------------------------------
 
 I'm ready then to start finally the work on Volume Four but it still
@@ -4801,7 +4801,7 @@ when I wrote but now when they come out it looks like a good story
 that I didn't- and the struggle, the fact that I was struggling with
 it doesn't seem too obvious to me now.)
 
-[83 - Two final major research projects](http://webofstories.com/play/17142)
+[   Two final major research projects](http://webofstories.com/play/17142)
 ----------------------------------------------------------------------------
 
 Now I'm still able to do small research problems that I can solve in a
@@ -4846,7 +4846,7 @@ I can't see how to solve it I will pass it on to somebody else and
 say, don't you think this is a cool thing and let them have the fun of
 solving it.)
 
-[84 - My love of writing and a lucky life](http://webofstories.com/play/17143)
+[   My love of writing and a lucky life](http://webofstories.com/play/17143)
 ------------------------------------------------------------------------------
 
 As you can see from my comments that I'm addicted to writing, I love
@@ -4892,7 +4892,7 @@ popular and not everything turned to gold, I just can't think of
 anything I would rather have done differently, and so it was very hard
 for me to answer this boy's question.)
 
-[85 - Coping with cancer](http://webofstories.com/play/17144)
+[   Coping with cancer](http://webofstories.com/play/17144)
 -------------------------------------------------------------
 
 Last year I learned that I had cancer and hopefully now we found it at
@@ -4967,7 +4967,7 @@ in computer science have discovered and put them together into a story
 that can be understood by some of those who can't understand the
 original papers.)
 
-[86 - Honorary doctorates](http://webofstories.com/play/17145)
+[   Honorary doctorates](http://webofstories.com/play/17145)
 --------------------------------------------------------------
 
 I used to say that I accepted these doctor's degrees in order to make
@@ -4996,7 +4996,7 @@ stamp method, if he had enough letters addressed to him as Doctor
 Floyd then he could submit that to some place and they would give him
 an honorary doctorate.)
 
-[87 - The importance of awards and the Kyoto Prize](http://webofstories.com/play/17146)
+[   The importance of awards and the Kyoto Prize](http://webofstories.com/play/17146)
 ---------------------------------------------------------------------------------------
 
 I think awards are important in a person's life to validate that other
@@ -5049,7 +5049,7 @@ our family and 100,000 went to my school where I had started the first
 grade through eighth grade and 100,000 to Stanford and 100,000 to pay
 for a new pipe organ at the church where I go here in Palo Alto.)
 
-[88 - The pipe organ (Part 1)](http://webofstories.com/play/17147)
+[   The pipe organ (Part 1)](http://webofstories.com/play/17147)
 ------------------------------------------------------------------
 
 My father was a church organist and he was, in fact the day I was born
@@ -5102,7 +5102,7 @@ Princeton and she gave me lots of good music that I could begin to
 learn. So the idea was planted in me that pipe organ music is one of
 the great pleasures of life.)
 
-[89 - The pipe organ (Part 2)](http://webofstories.com/play/17148)
+[   The pipe organ (Part 2)](http://webofstories.com/play/17148)
 ------------------------------------------------------------------
 
 Since then I decided, okay, I got royalties from my books so I can use
@@ -5160,7 +5160,7 @@ home organ has to be so small that you can't get very many different
 kinds of tone quality on it but they were able to make it so that I
 have dozens and dozens of different combinations that work well.)
 
-[90 - The pipe organ (Part 3)](http://webofstories.com/play/17149)
+[   The pipe organ (Part 3)](http://webofstories.com/play/17149)
 ------------------------------------------------------------------
 
 Many Stanford students have given recitals here including Walter
@@ -5198,7 +5198,7 @@ more. But I enjoy music very much and the pieces that, there are some
 pieces written for organ that are so good that you never get tired of
 them no matter how often you play them.)
 
-[91 - An international symposium on algorithms in the Soviet Union](http://webofstories.com/play/17150)
+[   An international symposium on algorithms in the Soviet Union](http://webofstories.com/play/17150)
 -------------------------------------------------------------------------------------------------------
 
 I said that Analysis of Algorithms was what I wanted to call my life's
@@ -5261,7 +5261,7 @@ ancestry and we visited the cotton farms and picked cotton. We saw
 lots of, you know, I got myself a cap like the people wear in Khwarizm
 so that when I'm working on algorithms I can be properly dressed.)
 
-[92 - The Knuth-Morris-Pratt algorithm](http://webofstories.com/play/17151)
+[   The Knuth-Morris-Pratt algorithm](http://webofstories.com/play/17151)
 ---------------------------------------------------------------------------
 
 There was a story really behind every paper that I wrote pretty much
@@ -5323,7 +5323,7 @@ science so it's become famous and associated with my name. But I've
 got 160 papers and each one of them has a, some kind of a little twist
 to it that made it interesting to work on.)
 
-[93 - My advice to young people](http://webofstories.com/play/17152)
+[   My advice to young people](http://webofstories.com/play/17152)
 --------------------------------------------------------------------
 
 If somebody said what advice would I give to a young person, they
@@ -5376,7 +5376,7 @@ sort-of-vague thoughts that I have when reflecting over some of the
 directions that distinguish what I've done from what I've seen other
 people doing.)
 
-[94 - My children: John](http://webofstories.com/play/17153)
+[   My children: John](http://webofstories.com/play/17153)
 ------------------------------------------------------------
 
 Since the beginning I've tried to be a good father and not just an
@@ -5436,7 +5436,7 @@ there and it's a hard life. They have to be supported by their spouses
 and so does my son. His wife works for Sun Microsystems, telecommuting
 and that means that they can make ends meet.)
 
-[95 - My children: Jenny](http://webofstories.com/play/17154)
+[   My children: Jenny](http://webofstories.com/play/17154)
 -------------------------------------------------------------
 
 I'm very proud of my daughter who, right now, is not in a profession,
@@ -5485,7 +5485,7 @@ well. But in high school she showed strength in science. I always
 thought that she, well, she was very quick and we play games a lot and
 she always beats me and so does John.)
 
-[96 - Working on a series of books of my collected papers](http://webofstories.com/play/17155)
+[   Working on a series of books of my collected papers](http://webofstories.com/play/17155)
 ----------------------------------------------------------------------------------------------
 
 The fact that I started swimming in the 90s also had a nice other
@@ -5549,7 +5549,7 @@ you know, that's my main life's research work and having all those
 papers put together in one place is something that, you know, gives a
 lot of fulfilment.)
 
-[97 - Why I chose analysis of algorithms as a subject](http://webofstories.com/play/17156)
+[   Why I chose analysis of algorithms as a subject](http://webofstories.com/play/17156)
 ------------------------------------------------------------------------------------------
 
 Speaking of analysis of algorithms quickly I should say that, you
